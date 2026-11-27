@@ -1,0 +1,56 @@
+李果 · 影像作品集
+
+第 42 页 · 代表作四 · 点众科技《如果AI》首钢园科幻微短剧：实拍工业遗迹与 AIGC 数字绘景融合总览
+https://lg9685294.github.io/portfolio/42/
+
+04 / SPECIALIZED WORK · LIVE-ACTION × AIGC VFX
+/
+代表作四 · 点众科技《如果AI》首钢园科幻微短剧：实拍工业遗迹与 AIGC 数字绘景融合总览
+资深 AIGC 视频设计师 · 2024.05—2024.10 · 北京广电局「短剧游北京」入选剧目
+42
+BEIJING SARFT SELECTED
+LIVE + AIGC VFX
+如果AI
+[《如果AI》概念主视觉竖版海报留位 · 1080×1920 ]
+SHOUGANG PARK
+SOREAL SCI-FI
+MATTE PAINTING
+15+ AD CUTS
+PROJECT 04 OVERVIEW · 实拍真人剧组 × AIGC 虚拟制片视效补镜与出海买量延展
+点众科技《如果AI》科幻微短剧
+首钢园一高炉·SoReal 科幻乐园实景开机 · 虚实融合视效代表作
+围绕北京广电局“短剧游北京”重点入选项目，解决微短剧预算无法承担传统千万级科幻 CG 建城的痛点：基于首钢园实拍钢铁工业遗迹底片，利用 ComfyUI（SDXL + ControlNet）拓展末日未来世界数字绘景（Matte Painting），结合可灵动态补镜与达芬奇冷峻影调统一，同步沉淀点众 DramaBox 出海线流水线。
+-70 %
+点众期间单集视效与连载工时压缩
+15 +版
+《如果AI》9:16 前 3 秒悬念预热切片
+150 +条
+点众河马 / DramaBox 累计买量切片
+ACES
+实拍摄影机底片与 AI 补镜色彩对齐
+广电入选
+“短剧游北京”科幻文旅融合标杆
+HYBRID VFX SCOPE · 实拍融合视效核心任务
+数字绘景
+基于一高炉实拍空镜，SDXL + ControlNet 向天际扩建末日巨构
+动态补镜
+运用可灵 1.0/1.5 生成虚拟意识空间穿梭转场与赛博奇观过场镜
+影调缝合
+达芬奇统一实拍真人肤色、工业锈铁质感与 AI 镜头胶片噪点
+宣发物料
+制作剧集概念主视觉海报及河马剧场/抖音端 15+ 版前 3 秒切片
+PLATFORM CAPABILITY · 点众国内+出海双线沉淀
+本人角色
+资深 AIGC 视频设计师（负责视效资产、补镜合成与买量视觉）
+剧组衔接
+对接现场摄影指导获取实拍焦段与光位记录，确保扩景透视零穿帮
+出海拓展
+同步承担 DramaBox 欧美短剧对手戏锁脸与英语 Lip-sync 口型精修
+核心价值
+证明不仅能做纯 AI 剧，更能嵌入专业实拍剧组担任 AI 视效指导
+[ 待补二维码 ]
+扫码看视效集锦
+实拍扩景对比
+与预热切片
+CHAPTER 04 · DIANZHONG《如果AI》SHOUGANG SCI-FI HYBRID PRODUCTION
+NEXT: LIVE-ACTION MATTE PAINTING EXTENSION & CAMERA TRACKING →

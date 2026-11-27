@@ -1,0 +1,71 @@
+李果 · 影像作品集
+
+第 31 页 · 商业级疑难排障与审片迭代：三大广告片致命穿帮精修 ×「异类 Outliers + 京东监制」三轮定稿闭环
+https://lg9685294.github.io/portfolio/31/
+
+02 / COMMERCIAL QC & CLIENT ITERATION
+/
+商业级疑难排障与审片迭代：三大广告片致命穿帮精修 ×「异类 Outliers + 京东监制」三轮定稿闭环
+单轮只改一变量 · 废稿留痕可回滚 · 试片客户一次过审率 90%
+31
+AGENCY & BRAND REVIEW LOOP · 商业承制如何高效对接前端代理与甲方监制（不扯皮、不盲改）
+先锁静帧 Lookdev 签字 → 再跑动态 Animatic → 终审 4K 成片
+GATE A · 静帧签字门禁 LOOKDEV SIGN-OFF
+未确认商品与岩彩不跑视频
+先交付每支片 4 张核心定调静帧（含商品真机落位），获异类创意总监与品牌方书面确认后再开启动态算力。
+→
+ROUND 01 · 动态粗剪反馈 V1 FEEDBACK
+产品出场前移 1.5 秒
+代理商反馈《双飞天》前段壁画铺垫略长；当即裁剪 S01 尾段并将新风吹入声桥提前至第 4 秒，节奏立稳。
+→
+ROUND 02 · 品牌细节精修 V2 POLISH
+冰箱面板色温校准与手印修正
+品牌监制指出洞窟红烛令白色机身偏黄；在达芬奇单独分离产品 Mask 回拉 6500K 纯净冷白高光。
+→
+ROUND 03 · 4K 终审签收 FINAL MASTER
+4 支主片 + 多端物料零延误交片
+本地超分至 3840×2160 ProRes 母版，封装片尾授权联名动效，90% 镜头首轮试片即获通过。
+商业排障 01（家电金属反射污染）：洞窟复杂彩绘随运镜在冰箱面板上产生「油污状流动彩斑」
+SURFACE REFLECTION NOISE → CLEAN PASS COMPOSITE
+BEFORE · 面板反光显脏 BRAND REJECT
+[ 废镜留位 · 机身表面AI生成杂乱彩色噪斑 ]
+破坏高端家电洁净品质感
+CMF CONTAMINATED DEFECT 01
+→
+病因诊断 ：视频扩散模型将后景高饱和岩彩纹理错误映射到前景高反光机身区域，形成伪影。
+排障处方 ：剥离 AI 生成的产品表面像素，改用 棚拍干净底片 + Blender 线性高光扫光层（Specular Pass）合成 ，既有洞窟暖光边缘包裹，面板中心又洁净如新。
+→
+AFTER · 柔光高级金属质感 APPROVED
+[ 过审帧留位 · 机身纯净清透边缘带暖金轮廓光 ]
+完美符合家电行业广告大片打光标准
+STUDIO GRADE CMF CLEAN PASS
+商业排障 02（敦煌反弹琵琶与拈花手印）：飞天高速旋舞时出现「手指多指扭曲、琵琶琴颈断裂」
+MUDRA & LUTE DEFECT → INPAINT + RIGID PROP TRACK
+BEFORE · 手印与琵琶变形 IP REJECT
+[ 废镜留位 · 兰花指粘连且曲项琵琶变弯 ]
+不符合敦煌乐舞严谨仪轨
+PROP MELT DEFECT 02
+→
+病因诊断 ：曲项琵琶弦轴细节多且伴随手腕翻转，单靠提示词无法维持唐代乐器刚体几何。
+排障处方 ：锁死已生成的优美飞天身段 Seed，抽关键帧入 ComfyUI 用敦煌拈花手印深度图局部重绘五指 ，并将独立精修的曲项琵琶资产做运动跟踪替换。
+→
+AFTER · 拈花指与琵琶精准 APPROVED
+[ 过审帧留位 · 唐代曲项琵琶笔直、兰花手印灵动 ]
+经敦煌美术研究所细节审校一次过关
+CULTURAL ACCURACY SAVED SEED
+商业排障 03（二维壁画破壁色阶断层）：从斑驳泥墙过渡到三维人物时「面部突发阴阳脸块状闪烁」
+TRANSITION FLICKER → DUAL-STREAM MORPH + GRAIN
+BEFORE · 破壁中途脸部跳闪 FLICKER
+[ 废镜留位 · 第 48–62 帧壁画剥落纹卡在脸上 ]
+看起来像面部污损而非破壁奇观
+TEXTURE ARTIFACT DEFECT 03
+→
+病因诊断 ：首帧粗粝泥墙纹理与尾帧细腻皮肤反差过大，中间插帧不知道何时褪去裂纹。
+排障处方 ：在 AE 建立 金砂粒子擦除遮罩（Luma Wipe） ，让五官区域在 8 帧内借一道高光金粉顺滑切换至干净三维肌理，彻底消除卡顿脏斑。
+→
+AFTER · 金粉流光丝滑破壁 APPROVED
+[ 过审帧留位 · 金砂掠过瞬间神采奕奕破壁而出 ]
+成为全案最具传播力的核心记忆镜头
+HERO TRANSITION ZERO FLICKER
+CHAPTER 02 · COMMERCIAL DEFECT TRIAGE & AGENCY/BRAND SIGN-OFF WORKFLOW
+NEXT: CAMPAIGN CALLIGRAPHY LOCKUP & WEIBO/XIAOHONGSHU KV POSTER MATRIX →

@@ -1,0 +1,62 @@
+李果 · 影像作品集
+
+第 32 页 · 跨媒介延展 ①：联名主题字标设计规范 × 微博/小红书平面 KV 海报矩阵（同源高精资产零重做）
+https://lg9685294.github.io/portfolio/32/
+
+02 / KEY VISUAL & SOCIAL POSTER MATRIX
+/
+跨媒介延展 ①：联名主题字标设计规范 × 微博/小红书平面 KV 海报矩阵（同源高精资产零重做）
+品牌 Logo 零 AI 重绘 · 主题字四步精修 · 横版战役主 KV + 4 款竖版种草海报
+32
+TITLE TYPOGRAPHY & VI SYSTEM · 平面功底加持：一次锁定「主题字标 + 敦煌边框 + 矿物色卡」复用于全套海报
+严格区分「我设计的战役主题字」与「原厂授权品牌 Logo」
+TYPE 01 · 唐碑骨架选型 BASE GLYPH
+提取盛唐楷隶宽博字骨
+摒弃千篇一律的江湖毛笔字库，参考敦煌写经与唐碑起笔结构搭建「敦煌寻新记」五字基础重心。
+→
+TYPE 02 · 飞天飘带笔势 STROKE FLOW
+收敛尖刺 · 融入卷草撇捺
+在 Illustrator 手工重绘主笔撇捺弧度，呼应 329 窟飞天长巾流线，确保缩小至手机端依然清晰醒目。
+→
+TYPE 03 · 泥金岩彩赋材质 FOIL TEXTURE
+叠入箔金微裂纹高光
+保留纯白轮廓矢量母版（供快闪灯箱雕刻），同步派生泥金浮雕质感版（供深色岩彩海报主标题）。
+→
+TYPE 04 · 联合落版安全框 VI GRID
+锁定多品牌联合角标栅格
+统一京东文博盛典、敦煌美术研究所与合作品牌 Logo 顶底栏比例，横竖版海报一键套版零跑偏。
+MASTER KEY VISUAL · 微博官宣横版战役总主视觉（16:9 / 2:1）
+WEIBO OFFICIAL KV · 战役官宣主海报留位 3840×1920 PX
+[ 待补平面主 KV 留位 · 泥金藻井画框 + 破壁飞天 + 三大品类现代家电同框 ]
+居中排布手绘精修「敦煌寻新记」主题字标，顶栏官方联合 Logo 严格对齐
+REUSED FROM 4K TVC LAYERED ASSETS PRINT & DIGITAL
+同源资产降本逻辑 ：传统流程拍完 TVC 还要另请平面摄影棚重拍一套 KV；本案在 TVC 合成前即将 洞窟背景、飞天人物、家电真机分层输出 6K PNG ，3 天内零额外算力延展出全套社媒海报矩阵。
+XIAOHONGSHU & SOCIAL MATRIX · 小红书 3:4 / 抖音 9:16 四大单品联名种草海报墙
+KV-01 · 空调篇 3:4
+[ 竖版海报留位 ]
+双飞天×新风空调
+「一缕仙风去班味」
+329 窟配色 SOCIAL
+KV-02 · 冰箱篇 3:4
+[ 竖版海报留位 ]
+晚唐婚宴×海信小榴莲
+「榴莲喜饼各安其味」
+12 窟配色 SOCIAL
+KV-03 · 家纺篇 3:4
+[ 竖版海报留位 ]
+张骞丝路×水星家纺
+「大漠披锦一夜好眠」
+323 窟配色 SOCIAL
+KV-04 · 快闪邀约 9:16
+[ 竖版长图留位 ]
+青岛京东 MALL
+「沙漠绿洲打卡指南」
+O2O 导流 EVENT
+8+ 套
+横竖版联名平面 KV 矩阵
+12+ 条
+9:16 竖屏社媒种草拆条
+100%
+跨视频/平面字标色卡统一
+CHAPTER 02 · TITLE GLYPH DESIGN & WEIBO / XIAOHONGSHU KV POSTER SYSTEM
+NEXT: VISUAL BUFFER SPREAD · QINGDAO JD MALL OFFLINE POP-UP PANORAMA →

@@ -1,0 +1,33 @@
+李果 · 影像作品集
+
+第 39 页 · 大视觉缓冲跨页：宗门大比「血咒反噬 · 无限血条暴走瞬秒」全画幅国风奇幻战斗主视觉
+https://lg9685294.github.io/portfolio/39/
+
+03 / VISUAL BUFFER SPREAD · COMBAT CLIMAX
+/
+大视觉缓冲跨页：宗门大比「血咒反噬 · 无限血条暴走瞬秒」全画幅国风奇幻战斗主视觉
+漫剧模块核心视觉震场跨页 · 明确角色动势、法阵层次与系统血条 UI 物品坐标
+39
+◀ PROTAGONIST SIDE · 男主硬扛漫天血雷，头顶金色「HP ∞ 无限回满」神纹爆发
+ANTAGONIST SIDE · 大长老赤红禁术法相碎裂、遭十倍咒力反噬倒飞 ▶
+[+01] 左上核心系统视觉锤（必现 UI 道具） SYSTEM HUD
+半透明鎏金「HP：999,999,999 / ∞ 咒术反噬触发」全息血条框 ：AE 独立发光层制作，数字跳动锐利零乱码。
+[+02] 左前景男主战损金纹态与武器 HERO STATE
+男主玄黑劲装碎裂露金色护体神纹 ：右手单握 暗金断剑 踏碎八卦青石砖，衣摆受气浪向右后方剧烈翻飞。
+[+03] 右上巨型赤紫禁术法相与盘龙柱 BOSS & ARENA
+十丈赤红骷髅血咒法相崩解化作漫天光屑 ：后景 3D 定轴的 四根宗门盘龙石柱 透视严整。
+[+04] 前后景多层 AE 粒子合成细节 AE VFX LAYERS
+前景飞溅碎石虚焦层 + 中景金色反噬闪电链 + 地面环形冲击气浪烟尘 ：彻底拉出超越普通漫剧的电影景深。
+FANTASY COMBAT FULL-BLEED PLACEHOLDER · 1792×752px
+[《我有无限血条》宗门擂台反噬高潮全画幅大视觉留位 ]
+画面说明：对角线高张力构图，左侧男主顶着金色无限血条逆光踏步斩击，右侧反派赤红禁术法阵寸寸崩裂，展示 3D 擂台定轴 + AI 角色 + AE 特效最终合成上限。
+STYLE: HIGH-PRECISION 2.5D / 3D ORIENTAL FANTASY CEL-SHADING
+COMPOSITE: BLENDER ARENA + KLING 2.0 + AFTER EFFECTS TRAPCODE
+01 / 大视觉核心叙事（WHAT IT SHOWS）
+直观呈现男频系统漫剧最核心的商业卖点—— 「极致数值爽感可视化 + 不跳轴的大场面法术对轰」 。
+02 / 必现物品与特效元素（ITEMS & VFX）
+① 鎏金无限血条与反噬弹窗 UI · ② 暗金断剑与金色护体符文 · ③ 宗门八卦台与四根盘龙柱 · ④ 赤红崩解法相与金色闪电链 。
+03 / 后续补图规格（REPLACEMENT SPEC）
+贴入宗门大比高潮集 16:9 宣传横幅大图或三联竖屏高燃战斗合成帧。
+CHAPTER 03 · VISUAL BUFFER SPREAD · INFINITE HP BACKLASH ARENA CLIMAX
+NEXT: MULTI-MODEL VFX COMPOSITING PIPELINE & 80-EPISODE ROI LEDGER →

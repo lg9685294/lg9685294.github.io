@@ -1,0 +1,52 @@
+李果 · 影像作品集
+
+第 43 页 · 实景数字绘景工程：基于首钢园实拍钢铁遗迹，用 SDXL + ControlNet 零违和扩建末日赛博天际线
+https://lg9685294.github.io/portfolio/43/
+
+04 / DIGITAL MATTE PAINTING (DMP)
+/
+实景数字绘景工程：基于首钢园实拍钢铁遗迹，用 SDXL + ControlNet 零违和扩建末日赛博天际线
+保护实拍近景演员走位区 100% 不动 · 钢桁架线稿延伸透视灭点 · 3D 反求摄像机跟踪贴合
+43
+4-STEP LIVE-TO-SCI-FI DMP PIPELINE · 让千元算力跑出传统影视百万级数字绘景（Matte Painting）大远景
+严格匹配现场实拍镜头焦段、大气雾霾衰减与冷青主光方向
+DMP 01 · 实拍底片Roto分区 PLATE MASK
+锁死近中景一高炉地标真迹
+分离前景真人演员与中景首钢园标志性高炉管道（文旅植入必保元素），仅向天空与远景开扩景遮罩。
+→
+DMP 02 · ControlNet 透视延展 CANNY + DEPTH
+顺着高炉钢梁灭点生长未来巨构
+以实拍桁架边缘 Canny 与 Depth 为引导，在 ComfyUI SDXL 生成悬浮环形算力核心与末日折叠建筑群。
+→
+DMP 03 · 2.5D 图层投射跟踪 3D TRACKING
+摄像机反求赋予远景真实视差
+对实拍摇移镜头做 3D Camera Tracker 反求，将 AI 绘景拆为前中远三层卡片投射，运镜时视差自然准确。
+→
+DMP 04 · 大气烟雾与发光生命感 ATMOS LIVE
+叠入流动云层、警示航标灯与蒸汽
+拒绝死板静态贴图：在远景建筑叠入呼吸闪烁红色航标灯、穿梭飞行器微光与高炉真实排烟层。
+LIVE PLATE → DMP COMPOSITE · 首钢园一高炉虚实扩景三阶对比留位
+01 · 剧组现场实拍原始底片 SONY FX6 LOG
+[ 实拍原片帧留位 · 一高炉钢铁管道与普通阴天背景 ]
+近景演员走位真实，但远景现代居民楼与晴空缺乏末日感
+LIVE FOOTAGE RAW PLATE
+→
+02 · Roto 遮罩 + ControlNet 深度引导图 MASK & DEPTH
+[ 遮罩与深度通道工程图留位 ]
+抹除穿帮远景楼宇，沿高炉斜撑延长线框定巨型环形AI中枢位置
+SDXL INPAINT + DEPTH 2.5D CARDS
+→
+03 · 虚实无缝融合最终成片帧 FINAL SHOT
+[ 最终过审成片帧留位 · 锈铁高炉直通云端赛博巨塔 ]
+大气青灰雾气自然过渡接缝，冷青顶光同时照亮实拍钢架与虚拟巨构
+ZERO SEAM COMPOSITE SARFT APPROVED
+文旅与科幻双重命题平衡 ：“短剧游北京”既要求观众一眼认出 首钢园一高炉与 SoReal 乐园真实地标 ，又要展现未来 AI 觉醒奇观；因此严守「中近景地标零篡改、天际远景超现实扩建」黄金比例。
+MATCHING RULES · 消除“假背景贴纸感”三要素
+要素 01 · 黑位与空气透视匹配 BLACK LEVEL
+远景 AI 巨构暗部绝不能比近景实拍高炉更黑；按距离叠加指数大气雾（Z-Depth Fog）自然发灰发青。
+要素 02 · 光学景深与镜头暗角同步 OPTICAL DOF
+读取实拍镜头光圈（T2.8），为 AI 远景赋予匹配的散景柔化与色散边缘，洗掉 AI 过度锐利数码边。
+要素 03 · 统一传感器噪点（Grain Match） SENSOR GRAIN
+吸取 FX6 实拍暗部噪点采样叠回 AI 绘景层，动态播放时颗粒同频呼吸，肉眼无法分辨接缝。
+CHAPTER 04 · SDXL + CONTROLNET DIGITAL MATTE PAINTING & 2.5D PROJECTION
+NEXT: VISUAL BUFFER SPREAD · SHOUGANG BLAST FURNACE SCI-FI KEY VISUAL →

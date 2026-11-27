@@ -1,0 +1,52 @@
+李果 · 影像作品集
+
+第 40 页 · 动态特效合成管线：Seedance 狂傲台词特写 × 可灵运动笔刷受击动态 × AE 粒子与血条包装
+https://lg9685294.github.io/portfolio/40/
+
+03 / MULTI-MODEL VFX & AE COMPOSITING
+/
+动态特效合成管线：Seedance 狂傲台词特写 × 可灵运动笔刷受击动态 × AE 粒子与血条包装
+不靠大模型硬抽文字 UI 与精细刀光 · AI 管肢体气浪 · AE 管锐利法阵与数值爽感
+40
+LAYERED VFX WORKFLOW · 把一镜高燃斗法拆成「AI 底层动势 + AE 顶层包装」双流水线，良率与爽感翻倍
+单镜平均合成耗时 ≤ 18 分钟 · 80 集建立标准化特效预设库
+STEP 01 · 台词情绪镜头 SEEDANCE
+狂傲冷笑与反派震惊特写
+高频狠话与震惊反应派单 Seedance，精准锁定漫剧夸张咬牙、瞳孔震颤与中文口型节奏。
+→
+STEP 02 · 受击与冲击波底片 KLING BRUSH
+可灵运动笔刷控衣袂与烟尘
+在 3D 擂台底图上，用运动笔刷拉出披风翻飞与地面气浪扩散方向，静态遮罩锁死盘龙石柱。
+→
+STEP 03 · AE 咒印刀光封装 AE PARTICLES
+叠加 25 套预制法阵与残影
+在 AE 调用自建古风符文环、Saber 雷电剑气、快门速度线与重低音震屏（Camera Shake）。
+→
+STEP 04 · 系统血条数值跳字 HUD PACKAGE
+绑定头部跟踪弹出「反噬+9999」
+系统弹窗、血条扣减瞬间回满动效全部由 AE 表达式驱动，字体锋利统一，绝无 AI 乱码假字。
+SINGLE-SHOT COMPOSITING BREAKDOWN · 单镜三层叠合拆解留位（AI 底片 → 运动笔刷 → AE 成片）
+LAYER 01 · 擂台定轴 + 角色净版首帧 CLEAN BASE
+[ 净版输入帧留位 · 不含任何血条与刀光 ]
+保持纯净角色体态供模型计算肢体运动
+NO UI / NO TEXT INPUT FRAME
+→
+LAYER 02 · 可灵 1.6/2.0 气浪动态底片 MOTION PASS
+[ 运动笔刷轨迹与原始生成视频帧留位 ]
+男主挥剑踏步、衣袍鼓荡、石台碎裂扬尘
+KLING MOTION BRUSH RAW VIDEO
+→
+LAYER 03 · AE 法阵粒子 + 无限血条成片 FINAL VFX
+[ 最终合成成片帧留位 · 剑气雷光 + 血条回满 ]
+叠入赤金反噬法阵、顿帧闪黑冲击帧（Impact Frame）与音效
+AE TEMPLATE APPLIED BROADCAST CUT
+制片提效关键决策 ：禁止生成组员在提示词里死磕“头顶金色血条写着无限生命”——大模型 100% 会生成鬼画符且拖垮人物动作； 坚持「净版人物生成 + AE 表达式套血条」将单集返工率直接砍半 。
+REUSABLE VFX PACK · 全剧沉淀的 4 类标准化特效预制件
+预制包 A · 系统无限血条与任务弹窗组 HUD RIG
+含受击掉血瞬回满、反噬倍率跳字、倒计时警告框 8 款参数化 MG 组件。
+预制包 B · 古风八卦咒印与雷火剑气 SPELL ASSETS
+预渲染带 Alpha 通道的 4K 旋转符文阵、暗金剑气挥砍拖尾与血雾爆散序列。
+预制包 C · 打击感顿帧与重低音音效 IMPACT & SFX
+反杀瞬间抽 2 帧黑白反转闪光（Impact Frame）配钟鼓低频爆音，爽感拳拳到肉。
+CHAPTER 03 · SEEDANCE + KLING MOTION BRUSH + AE VFX COMPOSITING
+NEXT: 3-WEEK 80-EPISODE DELIVERY REPORT & 1,250 RMB/MIN LEDGER →

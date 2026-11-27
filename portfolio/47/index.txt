@@ -1,0 +1,59 @@
+李果 · 影像作品集
+
+第 47 页 · 代表作五 · 联想 × 蓝色光标《#万物皆可YOGA#》（上）：长城奖金奖案动态故事板预演与跨时空大师短片
+https://lg9685294.github.io/portfolio/47/
+
+05 / KA AWARD CAMPAIGN · LENOVO × BLUEFOCUS (1/2)
+/
+代表作五 · 联想 × 蓝色光标《#万物皆可YOGA#》（上）：长城奖金奖案动态故事板预演与跨时空大师短片
+商业视频编导 / AIGC 视觉执行 · 2023.05—2023.08 · 提案比稿周期 7 天 → 2 天
+47
+4A AGENCY ANIMATIC PIONEERING · 在 4A 代理商率先跑通「AI 动态故事板（Animatic）预演」，改写比稿与实拍协同效率
+参与中国广告长城奖金奖整合营销案 · 2023 蓝标内部预演提效标杆
+PAIN · 传统 4A 手绘分镜痛点 7 DAYS
+黑白草图客户难脑补跨时空影调
+传统外包画师手绘 20 格故事板需 5–7 天，且无法直观呈现巴塞罗那圣家堂彩窗光影与现代设计室的转场魅力。
+→
+BREAKTHROUGH · AI 动态预演 2 DAYS
+48 小时交付带配音运镜全彩预演片
+用 MJ V5 + SD ControlNet 快速锁死高迪/毕加索/鲁班跨时空场景与机位运动，剪成可播放 Animatic 一举赢下客户确认。
+→
+MASTER TUNING · 大师形象精调 ART DIRECTION
+高迪建筑曲线 × 毕加索立体派 × 鲁班木构
+协助编导团队统一三位历史巨匠的人物肖像质感与时代光影，确保跨百年对话既神似庄重又具时尚科技感。
+→
+COMPOSITE · 实拍与 AIGC 剪辑合成 -50% SET COST
+现代设计师实拍 + 百年艺术奇观合成
+现代 YOGA 设计师与双屏真机实拍，百年前圣家堂工坊与艺术幻境由 AIGC 延展合成，节省海外实景置景预算超 50%。
+ANIMATIC & TVC FRAMES ·《高迪 & YOGA 设计师跨越百年的艺术与科技对谈》核心四幕留位
+ACT 01 · 1900s 巴塞罗那工坊 GAUDI STUDIO
+[ 画面留位 · 高迪俯身绘制悬链线建筑手稿 ]
+暖金彩绘玻璃束光洒落在石膏拱券模型上
+HISTORICAL ATMOSPHERE MJ V5 + SD
+百年艺术起点 ：复原高迪自然曲线美学手稿台，为双屏转轴阻尼曲线埋下视觉隐喻。
+ACT 02 · 2023 现代工业设计室 LIVE-ACTION
+[ 画面留位 · YOGA 设计师翻开双屏触控手绘 ]
+实拍双屏笔记本 360° 翻转呈书本/帐篷形态
+REAL HARDWARE SHOOT YOGA BOOK 9i
+现代科技呼应 ：实拍设计师手写笔划过双 OLED 屏幕，光迹在屏幕边缘化作马赛克流光。
+ACT 03 · 跨时空书脊同框转场 MATCH-CUT
+[ 画面留位 · 百年羊皮建筑卷宗 ⇄ YOGA 双屏折页同轴翻转 ]
+高迪与现代设计师隔着发光双屏相视致意
+ANIMATIC HERO SHOT CROSS-CENTURY
+预演一锤定音 ：以“翻开的建筑画册 = 展开的双屏 YOGA”核心转场打动客户一次拍板。
+ACT 04 · 毕加索 / 鲁班系列延展 SERIES IP
+[ 画面留位 · 鲁班榫卯精密咬合 ⇄ 宝华韦健旋转音响转轴 ]
+跨大师系列短片统一超级符号语法
+GREAT WALL GOLD CASE 3 MASTERS
+系列化战役放大 ：将双屏开合形态延展至鲁班榫卯结构与毕加索多维视角，夯实「万物皆可 YOGA」。
+4A COMMERCIAL VALUE · 商业编导视角的核心贡献
+贡献 01 · 把抽象文案翻译成可拍镜头表 DIRECTOR SCRIPT
+在蓝色光标累计独立或协同交付 40+ 套 KA 客户商业 TVC 分镜脚本，深谙品牌利益点如何在 15–30s 内视觉化落地。
+贡献 02 · 建立 3C 硬件预演与实拍衔接标准 PREVIS TO SET
+Animatic 阶段即标清焦段（24mm/50mm）、轨道推拉速度与绿幕抠像边界，让现场实拍导演与灯光组照图布光零误解。
+7天→2天
+4A 比稿预演周期压缩
+金奖案
+长城奖整合营销参与
+CHAPTER 05 · LENOVO × BLUEFOCUS《#万物皆可YOGA#》PART 1 · ANIMATIC & TVC
+NEXT: DUAL-SCREEN HINGE CONTROLNET KV MATRIX & LENOVO HQ EXHIBITION →

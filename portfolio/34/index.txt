@@ -1,0 +1,39 @@
+李果 · 影像作品集
+
+第 34 页 · 跨媒介延展 ②：青岛快闪 32:9 超宽屏无缝循环动态壁画 × 线下数米级喷绘 8K 分块超分工程
+https://lg9685294.github.io/portfolio/34/
+
+02 / ULTRA-WIDE SCREEN & 8K PRINT TECH
+/
+跨媒介延展 ②：青岛快闪 32:9 超宽屏无缝循环动态壁画 × 线下数米级喷绘 8K 分块超分工程
+攻克 AI 原生 1080p 分辨率上不了商场巨幕与近距喷绘的工程瓶颈
+34
+32:9 ULTRA-WIDE LED CANVAS (5760×1620 PX · 60FPS SEAMLESS LOOP) QINGDAO JD MALL MAIN STAGE
+LEFT ZONE · 329 窟藻井启幕
+双飞天破壁引出金色风带向右贯穿全屏
+→
+CENTER ZONE · 沙漠绿洲与现代智家交汇焦点
+[ 待补 32:9 超宽屏动态壁画长卷截帧留位 · 横向三视口拼接光流缝合 ]
+→
+RIGHT ZONE · 丝路星河收束回环
+首尾 45 帧 Alpha 粒子叠化实现全天候零跳帧无限循环
+THREE-CAMERA HORIZONTAL OUTPAINTING + AE SEAMLESS LOOP ZERO VISIBLE SEAM
+CHALLENGE A · 如何用 16:9 视频模型做出 32:9 超宽屏动态长卷？
+步骤 01 · 全景母图等距外扩（Outpainting）锁死地平线 PANORAMA BASE
+先在 ComfyUI 以 5760×1620 画幅构建敦煌沙丘连绵至绿洲宫阙的完整超宽母图，统一全局太阳高度角与透视地平线。
+步骤 02 · 左中右三视口 20% 重叠区切片并行生成 OVERLAP TILING
+将超宽母图按 20% 重叠率切为左、中、右三块 16:9 视口分别送入可灵生成微动态，重叠区使用静态遮罩锁住沙脊接缝不漂移。
+步骤 03 · AE 羽化缝合 + 贯穿全屏的飞天飘带顶层统合 RIBBON OVERLAY
+三视口拼合后，在顶层叠加一条横跨 5760px 全屏的流金丝带与飞天剪影粒子，并做首尾 1.5s 自交叠 Loop，现场连播 8 小时无跳接。
+CHALLENGE B · 如何让 AI 画面撑起线下 4 米高背板近距凝视？
+普通算法硬拉 8K BLURRY / PLASTIC
+[ 局部 300% 放大留位 · 涂抹假感 ]
+传统插值放大导致壁画线条发虚如油画滤镜
+FAILS 50CM VIEWING REJECT
+Tiled Diffusion + 岩彩重绘 8K CRISP MINERAL
+[ 局部 300% 放大留位 · 真实砂砾颗粒 ]
+0.28 低重绘幅度注入高精泥金裂纹与矿石肌理
+150 DPI LARGE PRINT APPROVED
+线下印刷色彩防暗沉预案 ：RGB 霓虹高光转 CMYK 喷绘极易发灰发暗；输出前在 PS 采用 专色金通道补偿 + 暗部石青提亮 12% 打小样校色 ，确保商场射灯下实物背板金碧辉煌。
+CHAPTER 02 · 32:9 ULTRA-WIDE SEAMLESS LOOP & 8K TILED PRINT UPSCALING
+NEXT: OMNI-CHANNEL MULTI-FORMAT DELIVERY SPECIFICATION MATRIX →

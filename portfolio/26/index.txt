@@ -1,0 +1,57 @@
+李果 · 影像作品集
+
+第 26 页 · 美学底座定标：莫高窟原窟史料采样与自训练「敦煌矿物岩彩 LoRA」权重梯度测试
+https://lg9685294.github.io/portfolio/26/
+
+02 / DUNHUANG MINERAL PIGMENT LoRA
+/
+美学底座定标：莫高窟原窟史料采样与自训练「敦煌矿物岩彩 LoRA」权重梯度测试
+石青 · 石绿 · 朱砂 · 氧化泥金 · 剥离 AI 廉价仙侠风 · 敦煌美术研究所审校对齐
+26
+MURAL ARCHIVE & LoRA CALIBRATION · 从高清壁画史料采样到 LoRA 权重黄金区间锁定（留位待补训练对比图）
+48 张合规高精岩彩局部清洗训练集 · 锁定权重 0.65–0.75
+PLATE 01 · 原窟矿物色卡与地仗层肌理采样 PIGMENT SOURCE
+MURAL TEXTURE SAMPLE
+[ 329窟/12窟壁画高清肌理采样板留位 ]
+提取青金石、孔雀石绿、土红、蛤粉与千年龟裂泥金地仗层微距细节
+48 CLEANED SAMPLES
+COLOR SWATCH
+四大主色锚定
+· 敦煌石青 #1E3A5F
+· 矿物石绿 #2D6A5B
+· 晚唐土红 #9A3412
+· 泥金赭石 #CA8A04
+HEX / LAB LOCKED
+由敦煌美术研究所监修色卡核准 DATASET CURATION
+PLATE 02 · LoRA 权重梯度实测矩阵（XYZ Plot） WEIGHT 0.3 → 1.0
+ComfyUI XYZ GRID
+[ 自训岩彩 LoRA 权重 0.3 / 0.5 / 0.7 / 0.9 对比图留位 ]
+展示：0.3 偏普通古风插画 → 0.7 既有岩彩颗粒又保三维立体光影 → 0.95 画面过度扁平僵硬
+SWEET SPOT: 0.65–0.75
+DYNAMIC RULE
+破壁分段权重法
+开场静态壁画镜用 0.85 强岩彩；人物破壁飞出后降至 0.60 释放三维体积光。
+STAGE-BASED LoRA
+兼顾壁画古拙笔触与视频可动性 SDXL / FLUX LoRA
+PLATE 03 · 通用基模直出 vs 加载自训岩彩 LoRA 对比 BEFORE / AFTER
+REJECT · 通用模型直出
+[ 未加 LoRA 废稿留位 ]
+痛点：高饱和塑料网游仙侠风、光滑网红脸、毫无矿物壁画质感
+GENERIC AI SLOP
+APPROVED · 岩彩定标
+[ 加载岩彩 LoRA 定妆留位 ]
+唐代丰腴开脸、铁线描衣纹与天然矿物颗粒沉着厚重，一次获文博监修认可。
+INSTITUTE APPROVED
+确立全系列 4 支 TVC 与平面 KV 唯一母美学 LOOKDEV LOCKED
+STYLE GOVERNANCE
+岩彩美学统御
+三大技术铁律
+文博考据 × 现代商业平衡
+① 局部蒙版隔离：岩彩 LoRA 绝不污染现代商品区域
+REGIONAL PROMPTS
+在 ComfyUI 采用 Regional IP-Adapter / Attention Couple 分区控制：洞窟与飞天加载 0.7 岩彩权重，现代空调与海信冰箱遮罩区权重归零，保持工业金属与玻璃纯净质感。
+② 铁线描衣纹与唐风开脸锚定，杜绝跨镜头画风退化
+KEYFRAME ANCHOR
+视频大模型长时间运动易把岩彩笔触“洗平滑”；因此每段视频均由加载岩彩 LoRA 直出的高精首尾帧双端夹逼，并在 AE 叠回 8% 柔光地仗层微纹理。
+CHAPTER 02 · MINERAL PIGMENT LoRA TRAINING & REGIONAL STYLE ISOLATION
+NEXT: COMMERCIAL HARDWARE ZERO-HALLUCINATION LOCK ENGINEERING →

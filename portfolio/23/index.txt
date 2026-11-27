@@ -1,0 +1,56 @@
+李果 · 影像作品集
+
+第 23 页 · 《敦煌寻新记》项目总览：代理商协同承制架构、全触点交付清单与双轨排期控制
+https://lg9685294.github.io/portfolio/23/
+
+02 / CAMPAIGN OVERVIEW & DELIVERY
+/
+《敦煌寻新记》项目总览：代理商协同承制架构、全触点交付清单与双轨排期控制
+2025.08—2025.10 · 上海顺动广告承制 · 对接前端创意代理：异类 Outliers
+23
+JD HOME × DUNHUANG
+KV / 9:16 MASTER
+敦煌寻新记
+[ 战役竖版联名主海报 / 小红书封面留位 · 1080×1920 ]
+4 SERIES TVCs
+KV + POP-UP SPACE
+2025 CAMPAIGN
+90% FIRST-PASS
+PROJECT 02 OVERVIEW · 京东文博盛典整合营销视效承制档案
+京东 × 敦煌《敦煌寻新记》
+4 支系列商业 TVC + 社媒 KV 矩阵 + 青岛京东 MALL 线下快闪
+对接前端创意代理机构（异类 Outliers）与品牌监制，围绕莫高窟真实洞窟典故，将现代空调、冰箱、家纺核心功能痛点转译为「古画苏醒破局」超现实视听短片，并实现一套数字资产跨线上视频、平面海报与线下快闪超宽屏全链路落地。
+4 支
+系列商业 TVC 主片及多尺寸拆条
+90 %
+品牌与代理商试片一次过审率
+0 幻觉
+家电外观结构与品牌 Logo 零变形
+-60 %+
+较传统搭洞窟大漠实景棚综合省本
+3 大终端
+TVC 视频 · 社媒 KV · 青岛线下快闪
+DELIVERY MATRIX · 全案承制交付范围
+系列 TVC
+《唐代双飞天》《晚唐婚嫁图》《张骞出使西域》等 4 支主片
+平面传播
+微博 / 小红书联名主视觉 KV 海报矩阵 + 9:16 竖屏种草拆条
+线下快闪
+京东 MALL（青岛站）「沙漠绿洲」巨幅背板、导视与超宽屏动态壁画
+核心管线
+棚拍微距 + 3D 白模 + 自训岩彩 LoRA + ControlNet + 可灵 2.0 / AE
+ROLE & COLLABORATION · 职责边界与排期节奏
+本人角色
+AIGC 视效承制统筹 / 执行导演（统筹技术路径、动态与品控）
+上下游协同
+承接异类 Outliers 创意脚本 → 我方主导视觉定标、生成合成与多端延展
+里程碑控场
+W1 岩彩 LoRA 与商品白模定标 → W2–W3 四片并行生成 → W4 平面与快闪交付
+审核门禁
+先过「单帧静帧 Lookdev + 商品真标校对」，再跑视频算力，杜绝返工
+[ 待补二维码 ]
+扫码看 4 支成片
+TVC 合集与
+青岛快闪实录
+CHAPTER 02 · JD × DUNHUANG CAMPAIGN OVERVIEW & MULTI-TERMINAL SCOPE
+NEXT: COMMERCIAL BRIEF DECODING, AUDIENCE INSIGHT & BRAND RED LINES →
