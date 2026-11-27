@@ -58,6 +58,6 @@ SOP 03 · 动态预演门禁 82%+ FIRST-PASS
 SOP 04 · 算力止损纪律 2-STRIKE RULE
 「分戏派模型 + 静态遮罩锁景 + 两轮熔断」手册
 将动态背景闪烁排查、ComfyUI 局部救手保表演及两轮不过改蒙太奇快切写入组员日常考核红线。
-跨项目迁移价值 ：本剧跑通的「真值锁死 + 白模控透视 + 两轮熔断控本」管线，随后直接复用于 《敦煌寻新记》商业硬件零变形承制 与后续 6 部连载剧量产。
+跨项目方法对照 ：本剧的角色一致性与白模控透视流程，可与 《敦煌寻新记》 较早采用的商业硬件控形方法对照。
 END OF CHAPTER 01 ·《云浮若梦归》FULL PRODUCTION CLOSED LOOP (P04—P21)
 NEXT CHAPTER 02: JD × DUNHUANG《敦煌寻新记》COMMERCIAL TVC & POP-UP →

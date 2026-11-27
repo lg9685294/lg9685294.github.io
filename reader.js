@@ -53,9 +53,9 @@
     view=requested==="all"&&doc.published.brief&&doc.published.detail?"all":
       (requested==="detail"&&doc.published.detail)||!doc.published.brief?"detail":"brief";
     const subject=view==="detail"?doc.detail:doc;
-    document.title=[subject.name,subject.title].filter(Boolean).join(" · ")||doc.suite.name;
+    document.title=subject.title||doc.suite.name;
     const identity=document.querySelector(".ui-id-name");identity.textContent=subject.name||doc.name||doc.detail?.name||"个人资料";
-    const cap=v=>v?.workView==="projection"?"2031 年履历样稿（规划推演）":"";
+    const cap=v=>v?.workView==="projection"?"职业路径规划":"";
     const brief=view==="detail"?[]:window.ResumePaper.build(measure,doc,false,cap(doc));
     const detail=view==="brief"?[]:window.ResumeDetail.build(measure,doc.detail,cap(doc.detail));
     const leaves=view==="all"?window.ResumeDetail.assemble(brief,detail,cap(doc.detail)):[...brief,...detail];

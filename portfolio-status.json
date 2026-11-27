@@ -1,0 +1,332 @@
+{
+  "schemaVersion": "1.0",
+  "student": {
+    "name": "李果",
+    "targetRole": "AIGC 精品剧项目制片",
+    "targetDirections": [
+      "精品短剧",
+      "AI 漫剧",
+      "品牌 TVC"
+    ],
+    "cities": [
+      "杭州",
+      "北京"
+    ],
+    "contact": {
+      "phone": "15068164246",
+      "email": "ce08686657@163.com"
+    }
+  },
+  "site": {
+    "version": "V16",
+    "updatedAt": "2026-11-27T16:57:09+08:00",
+    "pages": {
+      "home": "https://lg9685294.github.io/",
+      "resume": "https://lg9685294.github.io/resume/",
+      "portfolio": "https://lg9685294.github.io/portfolio/",
+      "help": "https://lg9685294.github.io/help.html",
+      "fullText": "https://lg9685294.github.io/portfolio.txt"
+    }
+  },
+  "resume": {
+    "summary": "5 年商业视觉与 AIGC 影视制片经验，擅长跨镜一致性与多触点控本交付。",
+    "education": [
+      {
+        "school": "浙江海洋大学",
+        "degree": "硕士",
+        "major": "水利工程",
+        "start": "2019-09",
+        "end": "2022-07"
+      },
+      {
+        "school": "浙江水利水电学院",
+        "degree": "本科",
+        "major": "水利水电工程",
+        "start": "2015-09",
+        "end": "2019-07"
+      }
+    ],
+    "experience": [
+      {
+        "org": "上海顺动广告股份有限公司（AI视觉与短剧承制部）",
+        "role": "AIGC短剧项目制片 / 制作组长",
+        "start": "2025-04",
+        "end": "2026-08",
+        "type": null,
+        "highlights": [
+          "剧集与商业视效双线承制：带领 5 人制作组及外部兼职美术，并行承接平台委托古风漫剧、AI 仿真人短剧整包承制，以及头部电商品牌 AIGC 整合营销 TVC 与线下快闪动态视觉委托承制。",
+          "多模型路由与单镜无损返修：落地「合规角色/商品真值定标→Seedance 2.0 文戏微表情＋可灵 2.0 大动态运镜→固定 Seed 局部重绘返修」三级门禁，小组抽卡废片率由 62% 压降至 25%。",
+          "成本管控与商业交付表现：剧集单分钟成本控制在 1,200—2,200 元，商业 TVC 承制试片一次过审率达 90%；累计交付 7 部连载剧（3 部破红果/抖音 3,000 万—5,000 万热度）及多套全案级商业视效资产。"
+        ]
+      },
+      {
+        "org": "点众科技（河马剧场 / DramaBox 视觉内容中心）",
+        "role": "资深 AIGC 视频设计师（高级执行）",
+        "start": "2023-10",
+        "end": "2025-03",
+        "type": null,
+        "highlights": [
+          "精品微短剧视效与标准化量产：参与平台重点科幻文旅短剧《如果AI》（首钢园开机）实景数字绘景延展与可灵动态补镜；搭建多品类连载短剧「ComfyUI 角色模板＋标准机位库＋批量首尾帧」流水线，单集工时压缩 70%。",
+          "海外短剧锁脸与买量拆条：负责 DramaBox 海外短剧对手戏面部锁定、英语 Lip-sync 口型同步与穿帮精修，协同投流组产出 150+ 条 9:16 高转化买量切片。"
+        ]
+      },
+      {
+        "org": "蓝色光标（北京蓝标传媒）",
+        "role": "商业视频编导 / AIGC 视觉创意执行",
+        "start": "2022-07",
+        "end": "2023-09",
+        "type": null,
+        "highlights": [
+          "整合营销 TVC 与线下视觉执行：参与服务联想、伊利等 KA 客户（含长城奖金奖案《#万物皆可YOGA#》），负责商业 TVC 脚本分镜、棚拍微距跟组、平面 KV 延展及线下新品品鉴会展陈屏幕视觉，累计交付 40+ 套视频与传播物料（主力投放 CTR 3.8%）。",
+          "商品真值锁死与 AI 动态预演：2023.03 ControlNet 开源及集团推行 All in AI 期间，率先建立「3C/快消硬件真值底图锁死＋MJ V5 / SD ControlNet 光影生成＋AE 回贴」规范与动态故事板（Animatic）预演，比稿周期 7 天缩至 2 天、省置景费 50%。"
+        ]
+      },
+      {
+        "org": "网易（杭州互娱营销视觉中心）",
+        "role": "短视频内容编导（研三实习）",
+        "start": "2021-07",
+        "end": "2022-05",
+        "type": "实习",
+        "highlights": [
+          "实拍场记与后期视听筑基：研三论文录用后全勤实习，参与国风游戏品牌 TVC 棚拍场记、真人剧情宣发片分镜拆解及 Premiere / After Effects / DaVinci Resolve 剪辑调色与字卡安全区包装（累计参与交付 70+ 条），通过前 3 秒留存复盘推动均集完播率由 29% 升至 40%。"
+        ]
+      }
+    ],
+    "projectIds": [
+      "P1",
+      "P2",
+      "P3",
+      "P4",
+      "P5"
+    ],
+    "skills": [
+      "剧作拆解、视听分镜与留存节奏设计",
+      "角色商品资产锁死与跨镜一致性品控",
+      "可灵、Seedance、Veo 多模型生成调度",
+      "ComfyUI 可控管线与 3D 动态预演",
+      "PR / AE / 达芬奇精修与制片控本验收"
+    ],
+    "tools": [
+      "可灵 2.0",
+      "Seedance 2.0",
+      "Veo 3",
+      "ComfyUI",
+      "ControlNet",
+      "LoRA",
+      "Blender",
+      "Premiere",
+      "After Effects",
+      "DaVinci Resolve"
+    ]
+  },
+  "projects": [
+    {
+      "id": "P1",
+      "name": "《云浮若梦归》",
+      "type": "古装 AI 仿真人短剧",
+      "nature": null,
+      "myRole": "项目制片 / 视听统筹",
+      "teamOrSolo": "团队",
+      "start": "2026-01",
+      "end": "2026-04",
+      "client": "爱奇艺、红果",
+      "inResume": true,
+      "portfolioPages": "P04-P21",
+      "pageCount": 18,
+      "visuals": {
+        "ready": 0,
+        "total": 82
+      },
+      "videos": [],
+      "keyData": [
+        {
+          "metric": "集数",
+          "value": "60 集",
+          "source": "简历自述"
+        },
+        {
+          "metric": "制作周期",
+          "value": "18 天",
+          "source": "简历自述"
+        },
+        {
+          "metric": "单分钟成本",
+          "value": "1,450 元",
+          "source": "简历自述"
+        },
+        {
+          "metric": "站内热度",
+          "value": "5,077 万+",
+          "source": "简历自述"
+        }
+      ],
+      "status": "待补"
+    },
+    {
+      "id": "P2",
+      "name": "《敦煌寻新记》",
+      "type": "品牌 TVC 与快闪展陈",
+      "nature": null,
+      "myRole": "AIGC 视效承制统筹 / 执行导演",
+      "teamOrSolo": "团队",
+      "start": "2025-08",
+      "end": "2025-10",
+      "client": "京东 × 敦煌美术研究所",
+      "inResume": true,
+      "portfolioPages": "P22-P36",
+      "pageCount": 15,
+      "visuals": {
+        "ready": 0,
+        "total": 50
+      },
+      "videos": [],
+      "keyData": [
+        {
+          "metric": "系列 TVC",
+          "value": "4 支",
+          "source": "简历自述"
+        },
+        {
+          "metric": "试片一次过审率",
+          "value": "90%",
+          "source": "简历自述"
+        }
+      ],
+      "status": "待补"
+    },
+    {
+      "id": "P3",
+      "name": "《咒术反噬？我有无限血条》",
+      "type": "古风奇幻 AI 漫剧",
+      "nature": null,
+      "myRole": "执行导演 / 项目制片",
+      "teamOrSolo": "团队",
+      "start": "2025-05",
+      "end": "2025-08",
+      "client": null,
+      "inResume": true,
+      "portfolioPages": "P37-P41",
+      "pageCount": 5,
+      "visuals": {
+        "ready": 0,
+        "total": 13
+      },
+      "videos": [],
+      "keyData": [
+        {
+          "metric": "集数",
+          "value": "80 集",
+          "source": "简历自述"
+        },
+        {
+          "metric": "制作周期",
+          "value": "21 天",
+          "source": "简历自述"
+        },
+        {
+          "metric": "废卡率",
+          "value": "≤24%",
+          "source": "简历自述"
+        },
+        {
+          "metric": "单分钟成本",
+          "value": "1,250 元",
+          "source": "简历自述"
+        },
+        {
+          "metric": "追看完播率",
+          "value": "52%",
+          "source": "简历自述"
+        }
+      ],
+      "status": "待补"
+    },
+    {
+      "id": "P4",
+      "name": "《如果AI》",
+      "type": "实拍融合科幻微短剧",
+      "nature": null,
+      "myRole": "资深 AIGC 视频设计师",
+      "teamOrSolo": "团队",
+      "start": "2024-05",
+      "end": "2024-10",
+      "client": "河马剧场、抖音（宣发平台）",
+      "inResume": true,
+      "portfolioPages": "P42-P46",
+      "pageCount": 5,
+      "visuals": {
+        "ready": 0,
+        "total": 13
+      },
+      "videos": [],
+      "keyData": [
+        {
+          "metric": "竖屏预热切片",
+          "value": "15+ 版",
+          "source": "简历自述"
+        }
+      ],
+      "status": "待补"
+    },
+    {
+      "id": "P5",
+      "name": "《#万物皆可YOGA#》",
+      "type": "品牌整合营销",
+      "nature": null,
+      "myRole": "商业视频编导 / AIGC 视觉执行",
+      "teamOrSolo": "团队",
+      "start": "2023-05",
+      "end": "2023-08",
+      "client": "联想",
+      "inResume": true,
+      "portfolioPages": "P47-P48",
+      "pageCount": 2,
+      "visuals": {
+        "ready": 0,
+        "total": 8
+      },
+      "videos": [],
+      "keyData": [
+        {
+          "metric": "比稿周期",
+          "value": "7 天缩至 2 天",
+          "source": "简历自述"
+        }
+      ],
+      "status": "待补"
+    }
+  ],
+  "materials": {
+    "have": 0,
+    "pending": 174,
+    "todo": null,
+    "note": "按逐页明确标出的作品图位统计，概览中重复展示的位置分别计数。头像、二维码和排版示意不计入作品画面。未上网素材的制作进度待补。职业路径规划练习。所列任职、项目分工和业绩尚待凭证核实。"
+  },
+  "help": {
+    "replyDocUrl": null,
+    "items": [
+      {
+        "id": "Q01",
+        "type": "问题",
+        "location": "简历 · 工作经历 / P50 · 成长路径总结",
+        "desc": "这份职业路径规划从网易实习、蓝色光标编导、点众视频设计写到顺动项目制片。哪些作品能说明本人职责与能力的变化，哪些只能说明项目存在？这样的衔接问题需要局部改写，还是重做简历结构？",
+        "want": "请指出 2 处具体疑点，标明公司或作品页码，各给 1 条修改建议，并判断是否需要重做。",
+        "priority": "高",
+        "state": "待回复",
+        "date": "2026-11-27",
+        "replySeen": false,
+        "followUp": null
+      }
+    ]
+  },
+  "changelog": [
+    {
+      "time": "2026-11-27T16:57:09+08:00",
+      "change": "接入作品集监控与逐页全文，对齐五项代表作、主岗位及硕士联合培养信息，并保留按题号在线回复。"
+    },
+    {
+      "time": "2026-11-27T16:45:00+08:00",
+      "change": "为 Q01 开放在线回复、提交回执和个人收件箱。"
+    }
+  ]
+}

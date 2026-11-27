@@ -228,3 +228,5 @@ body.rr-public{margin:0;background:var(--ui-bg);color:var(--ui-ink);font:16px/1.
 @media(max-width:710px){.rr-combined-link{grid-column:1/-1;margin:0;font-size:13px}}
 .rr-public .pf-reading-body{white-space:pre-line;line-height:1.85;margin-top:22px}
 .rr-public .work-paging{display:flex;flex-wrap:wrap;gap:22px;padding-block:20px;border-top:1px solid var(--ui-line)}
+
+.rr-research-note{font-size:.82rem;line-height:1.6;color:#546158;margin:.7rem 0 1rem}

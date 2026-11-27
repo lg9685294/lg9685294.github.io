@@ -6,8 +6,8 @@ https://lg9685294.github.io/portfolio/1/
 李果
 LI GUO
 /
-AIGC 精品剧项目制片 ｜ 导演向 AI 视频主管
-2021—2026 PORTFOLIO · 杭州 / 北京 · 150-6816-4246 · ce08686657@163.com
+AIGC 精品剧项目制片
+职业路径规划练习 · 2021—2026 PORTFOLIO · 杭州 / 北京 · 150-6816-4246 · ce08686657@163.com
 01
 ABOUT ME · 个人定位
 5 年商业视觉与
@@ -24,7 +24,7 @@ AIGC 制片统筹实战
 CORE STACK
 可灵 2.0 · Seedance 2.0 · Veo 3 · ComfyUI (ControlNet / LoRA) · Blender 3D 预演 · PR / AE / DaVinci Resolve
 EDUCATION
-浙江海洋大学 · 清华大学联培 ｜ 硕士研究生（水利工程 · 人工智能与智能建造 · 2019—2022）
+浙江海洋大学（清华大学联合培养） ｜ 硕士研究生（水利工程 · 人工智能与智能建造 · 2019—2022）
 HONORS
 2024 点众高转化 AI 视觉案例 · 2023 蓝标预演标杆 · 2022 EI 期刊论文见刊
 WORK EXPERIENCE · 工作经历提炼
@@ -65,4 +65,4 @@ STAGE 01 · 视听筑基
 前 3 秒留存复盘迭代
 推动均集完播率提升
 LI GUO · AIGC SERIES & COMMERCIAL PORTFOLIO
-aguo-ai-fold-studio.abuzzvole8195.chatgpt.site · 1 MONTH AVAILABILITY
+lg9685294.github.io/portfolio/ · 1 MONTH AVAILABILITY

@@ -147,7 +147,7 @@ window.GUIDE = {esc: function escapeHTML(value) {
     });
     return pages;
   }
-  window.ResumePaper={build,paginate,example,labels,levels,contactFields};
+  window.ResumePaper={build,paginate,columns,example,labels,levels,contactFields};
 })();
 
 "use strict";
@@ -246,7 +246,7 @@ function createResumeDetailModel() {
       else units.push({html:head});
     });
   }
-  function build(holder,doc,caption="") {
+  function contentUnits(doc) {
     const units=[{html:profile(doc)}],aboutLines=lines(doc.about);
     paragraphs(units,aboutLines,heading("关于我","Executive Summary"),aboutLines.length>1?"dd-bullet":"dd-summary","about");
     experience(units,doc,"work","工作经验","Work Experience");
@@ -259,6 +259,10 @@ function createResumeDetailModel() {
       values[0]=textFields[key]+"："+values[0];
       paragraphs(units,values,opening,"dd-qual",key,true);opening="";
     }
+    return units;
+  }
+  function build(holder,doc,caption="") {
+    const units=contentUnits(doc);
     const runningLeft=[trim(doc.name),trim(doc.title)].filter(Boolean).join(" · ");
     const runningRight=trim(doc.sideLabel)||"CURRICULUM VITAE";
     const pages=window.ResumePaper.paginate(holder,[[".dd-body",units]],i=>{
@@ -282,5 +286,5 @@ function createResumeDetailModel() {
     });
     return pages;
   }
-  window.ResumeDetail={normalize,blank,hasContent,migrate,build,assemble,textFields,rowKinds,hasRow};
+  window.ResumeDetail={normalize,blank,hasContent,migrate,build,assemble,contentUnits,textFields,rowKinds,hasRow};
 })();
