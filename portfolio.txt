@@ -121,7 +121,7 @@ RESUME
 专业技能：熟悉 Seedance 2.0 / 2.5、可灵 2.5 Turbo / 3.0（及 4.0 新版实测）、Veo 3.1 分戏调度与首尾帧多参控制；熟练搭建 ComfyUI 多视图光影材质定标与固定 Seed 局部修片管线；掌握商业 Brief 留存拆解、3D 白模空间定轴、Animatic 动态预演、商品 Packshot 保真规范及 PR / AE / DaVinci Resolve 成片验收。
 荣誉奖项：深圳不鸣文化 · AIGC漫剧产线效能优秀团队（2026）；鸣白文化 · 年度商业定制短剧最佳视效奖（2024）；蓝色光标 · AIGC动态预演提效标杆案例（2023）。
 
-===== P01 封面履历 · 四段工作经历与核心竞争力 =====
+===== P01 封面履历 · 四段进阶工作经历与核心竞争力 =====
 
 https://lg9685294.github.io/portfolio/1/
 
@@ -190,7 +190,7 @@ STAGE 01 · 买量视听筑基
 LI GUO · AIGC SERIES PRODUCER & COMMERCIAL DIRECTOR PORTFOLIO
 lg9685294.github.io/portfolio · HANGZHOU / BEIJING
 
-===== P02 《予你深情侵入余生》系列 AI 漫剧（第 3—5 季分包） =====
+===== P02 五大代表作矩阵总览（双漫剧主作 + 三商业短剧/短片） =====
 
 https://lg9685294.github.io/portfolio/2/
 
@@ -250,7 +250,7 @@ MJ V5 + CONTROLNET + RUNWAY GEN-2 2023.05—2023.11
 SELECTED WORKS 01—05 · INDUSTRIALIZED COMIC PRODUCTION & ZERO-DEFECT COMMERCIAL VFX
 NEXT: 50-PAGE ARCHITECTURE & 9 PURE VISUAL SPREADS RHYTHM →
 
-===== P03 第 03 页 =====
+===== P03 作品集 50 页完整目录与章节配比 =====
 
 https://lg9685294.github.io/portfolio/3/
 
@@ -332,14 +332,14 @@ PAGE BUDGET RATIO (3 + 15 + 8 + 9 + 7 + 8 = 50P)
 50-PAGE MASTER TABLE OF CONTENTS · SEQUENTIAL PAGINATION P01—P50
 NEXT P04: PART 01 PURE FULL-BLEED OPENING VISUAL →
 
-===== P04 全册总览视觉缓冲：AI 精品漫剧 × 平台定制短剧 × 品牌商业短片跨赛道代表作矩阵 =====
+===== P04 《予你深情侵入余生》开场主视觉：豪门晚宴与雨夜落地窗 2.5D 对峙巨幕 =====
 
 https://lg9685294.github.io/portfolio/4/
 
-[图片：P04 全册总览视觉缓冲：AI 精品漫剧 × 平台定制短剧 × 品牌商业短片跨赛道代表作矩阵，已放入]
-04 / YUNI · OPENING VISUAL 全册总览视觉缓冲：AI 精品漫剧 × 平台定制短剧 × 品牌商业短片跨赛道代表作矩阵
+[图片：P04 《予你深情侵入余生》开场主视觉：豪门晚宴与雨夜落地窗 2.5D 对峙巨幕，已放入]
+04 / YUNI · OPENING VISUAL 《予你深情侵入余生》开场主视觉：豪门晚宴与雨夜落地窗 2.5D 对峙巨幕
 
-===== P05 《予你深情侵入余生》 =====
+===== P05 代表作一 ·《予你深情侵入余生》（第 3—5 季分包）项目总览与 86 亿战报 =====
 
 https://lg9685294.github.io/portfolio/5/
 
@@ -390,7 +390,7 @@ MULTI-POD PAIN POINTS · 多组周更跨季三大痛点破局
 PART 01 ·《予你深情侵入余生》SEASON 3—5 BATCH PRODUCTION CHARTER (85 EPS / ~200 MIN)
 NEXT P06: FEMALE-LEAD COMIC PERSONA, 3-SEC DROP-OFF & BREATH-SYNC SOP →
 
-===== P06 第 06 页 =====
+===== P06 前 3 秒留存改造与配音气口前置 SOP：流失拉片 × 短句改本 × 时码定长 =====
 
 https://lg9685294.github.io/portfolio/6/
 
@@ -488,7 +488,7 @@ NATIVE AD-SLICE READY
 PART 01 · PERSONA RESEARCH, 3-SEC DROP-OFF CLUSTERING & BREATH-SYNC REMODELING SOP
 NEXT P07: 2.5D SEMI-REALISTIC CHARACTER LOCK & HAUTE COUTURE MATERIAL CARDS →
 
-===== P07 第 07 页 =====
+===== P07 跨季连载美术定标基准：与首季母版对齐的 2.5D 光影色彩规范 =====
 
 https://lg9685294.github.io/portfolio/7/
 
@@ -564,7 +564,7 @@ STYLE GUARDRAILS · 2.5D 画风防跑偏红线
 PART 01 · SEASON 1 WORLDVIEW MASTER INHERITANCE & 3000K / 5600K LIGHTING BIBLE
 NEXT: CROSS-SEASON CHARACTER LOCK (I) · DUAN YAN & RONG JIQIAO 2.5D 4-VIEW SHEETS →
 
-===== P08 第 08 页 =====
+===== P08 人物资产一致性：男女主四视图骨相锁定与跨季防变脸校准 =====
 
 https://lg9685294.github.io/portfolio/8/
 
@@ -683,7 +683,7 @@ S05·EP19 · 暴雨车内急转 HIGH-LOW ANGLE
 PART 01 · CROSS-SEASON CHARACTER LOCK (I) · DUAN YAN & RONG JIQIAO 2.5D 4-VIEW & BONE TRUTH
 NEXT: CROSS-SEASON CHARACTER LOCK (II) · HAUTE COUTURE MATERIAL CARDS & BROOCH ANCHOR →
 
-===== P09 第 09 页 =====
+===== P09 高定礼服与多套换装材质卡：16 套核心造型光影解耦 =====
 
 https://lg9685294.github.io/portfolio/9/
 
@@ -786,14 +786,14 @@ L2 · 宴会群演 BG PALETTE
 PART 01 · CROSS-SEASON CHARACTER LOCK (II) · VELVET, CHAMPAGNE SATIN & BROOCH ANCHOR
 NEXT: PURE FULL-BLEED VISUAL SPREAD · HAUTE COUTURE TEXTURE & DRAMATIC LIGHT (P10) →
 
-===== P10 《予你深情侵入余生》主视觉（一）：雨夜豪门对峙与 2.5D 高精度微表情光影定标 =====
+===== P10 《予你深情》质感主视觉：丝绒西装与香槟缎面礼服戏剧光影特写 =====
 
 https://lg9685294.github.io/portfolio/10/
 
-[图片：P10 《予你深情侵入余生》主视觉（一）：雨夜豪门对峙与 2.5D 高精度微表情光影定标，已放入]
-10 / YUNI · COSTUME & LIGHT 《予你深情侵入余生》主视觉（一）：雨夜豪门对峙与 2.5D 高精度微表情光影定标
+[图片：P10 《予你深情》质感主视觉：丝绒西装与香槟缎面礼服戏剧光影特写，已放入]
+10 / YUNI · COSTUME & LIGHT 《予你深情》质感主视觉：丝绒西装与香槟缎面礼服戏剧光影特写
 
-===== P11 第 11 页 =====
+===== P11 高频主景空间资产库：极简 3D 白模锁定柱列透视与多机位空镜 =====
 
 https://lg9685294.github.io/portfolio/11/
 
@@ -908,7 +908,7 @@ EXT-CAM9 · 24mm VEO 3.1 ATMOS
 PART 01 · 4 RECURRING LUXURY SETS, 3D CLAY AXIS LOCK & 28-PLATE MULTI-CAMERA BANK
 NEXT: SEQUENCE STORYBOARD VS PER-SHOT KEYFRAME CLOSED-LOOP WORKFLOW (P12) →
 
-===== P12 第 12 页 =====
+===== P12 场次故事板与单镜分镜图双层闭环：前置排雷与净版资产派单 =====
 
 https://lg9685294.github.io/portfolio/12/
 
@@ -1011,7 +1011,7 @@ FEED → SEEDANCE 2.5 MULTI-REF SHOT
 PART 01 · SEQUENCE STORYBOARD (AXIS & RHYTHM) VS PER-SHOT KEYFRAME (PIXEL TRUTH) LOOP
 NEXT: 3D CLAY BLOCKOUT + KLING 3.0 CORRIDOR SCHEDULING & SEEDANCE 2.5 LONG-SHOT CRYING →
 
-===== P13 第 13 页 =====
+===== P13 一镜一图核心调度单：晚宴决裂 → 旋转长廊追逐 → 雨夜破碎哭戏 =====
 
 https://lg9685294.github.io/portfolio/13/
 
@@ -1095,7 +1095,7 @@ MODEL RELAY SPLICE
 PART 01 ·《予你深情侵入余生》CLIMAX DUEL 1-SHOT-1-IMAGE MASTER EXECUTION SHEET
 NEXT: MINIMALIST 3D BLOCKOUT SPATIAL AXIS & KLING 3.0 ZERO-CLIPPING CAMERA RIG →
 
-===== P14 第 14 页 =====
+===== P14 高难度空间定轴管线：Blender 白模定轴配合可灵 3.0 零穿模运镜 =====
 
 https://lg9685294.github.io/portfolio/14/
 
@@ -1154,7 +1154,7 @@ KLING 3.0 ZERO-CLIPPING RULES · 可灵 3.0 动态调度防穿模三项硬核控
 PART 01 · BLENDER MINIMALIST 3D BLOCKOUT → DEPTH/LINEART → KLING 3.0 ZERO-CLIPPING
 NEXT: CRYING LONG-TAKE LIP-BREATH SYNC, MULTI-MODEL ROUTING & 1.3:1 LOSS CONTROL →
 
-===== P15 第 15 页 =====
+===== P15 声画同步与微表情控制：CV 配音干声前置与 Seedance 2.5 哭腔贴合 =====
 
 https://lg9685294.github.io/portfolio/15/
 
@@ -1261,14 +1261,14 @@ CROSS-SEASON LOCK DAVINCI
 PART 01 · SEEDANCE 2.0/2.5 BREATH-LIP SYNC · MULTI-MODEL ROUTING & 1.3:1 LOSS CONTROL
 NEXT: PURE FULL-BLEED CLIMAX VISUAL SPREAD (ROTATING CORRIDOR RAIN NIGHT) →
 
-===== P16 《予你深情侵入余生》主视觉（二）：S4/S5 暑期档名场面连续情绪张力与色彩母版 =====
+===== P16 《予你深情》情绪高潮主视觉：挑高旋转长廊追逐与哭戏电影感巨幕 =====
 
 https://lg9685294.github.io/portfolio/16/
 
-[图片：P16 《予你深情侵入余生》主视觉（二）：S4/S5 暑期档名场面连续情绪张力与色彩母版，已放入]
-16 / YUNI · CLIMAX SEQUENCE 《予你深情侵入余生》主视觉（二）：S4/S5 暑期档名场面连续情绪张力与色彩母版
+[图片：P16 《予你深情》情绪高潮主视觉：挑高旋转长廊追逐与哭戏电影感巨幕，已放入]
+16 / YUNI · CLIMAX SEQUENCE 《予你深情》情绪高潮主视觉：挑高旋转长廊追逐与哭戏电影感巨幕
 
-===== P17 第 17 页 =====
+===== P17 多组并行周更「免检入库」六维品控标尺与三级审片机制 =====
 
 https://lg9685294.github.io/portfolio/17/
 
@@ -1376,7 +1376,7 @@ MOTION KV RONG JQ
 PART 01 · MULTI-POD EXEMPT-QC STANDARD · OPENMONTAGE SLOTS & 9:16 BUYOUT EXTENSION
 NEXT: PART 01 MASTER RECAP · 8.6B VIEWS, 1,450 RMB/MIN LEDGER & CROSS-SEASON SOP →
 
-===== P18 第 18 页 =====
+===== P18 《予你深情》收官复盘：1,450 元/分全包制片账本与跨季复用 SOP =====
 
 https://lg9685294.github.io/portfolio/18/
 
@@ -1442,7 +1442,7 @@ SOP 04 · 剧宣买量同源派生 9:16 DUAL LOOP
 END OF PART 01 ·《予你深情侵入余生》SEASON 3—5 BATCH SUMMARY (P04—P18)
 NEXT PART 02: YOUBAO ORDER POOL × BAIDU AI COMIC ALLIANCE & 560-EPISODE COMMERCIAL DELIVERY →
 
-===== P19 第 19 页 =====
+===== P19 代表作二 · 右豹订单池 × 百度 AI 精品漫剧联盟（12 部 560 集）量产总览 =====
 
 https://lg9685294.github.io/portfolio/19/
 
@@ -1498,7 +1498,7 @@ SYSTEM OVER HEROICS
 PART 02 · YOUBAO ORDER POOL UNIT ECONOMICS & BAIDU AI COMIC ALLIANCE QUALITY BRIEF
 NEXT: DUAL-GENRE 4-VIEW CHARACTER LOCK & SHARED MULTI-CAMERA SCENE BANK ARCHITECTURE →
 
-===== P20 第 20 页 =====
+===== P20 多题材共享资产工业化：都市悬疑与现代奇幻四视图及 8 机位主景库 =====
 
 https://lg9685294.github.io/portfolio/20/
 
@@ -1579,7 +1579,7 @@ SHARED SCENE BANK · 12 部漫剧沉淀的四大高频复用母景池
 PART 02 · 4-VIEW CHARACTER LOCK, IC-LIGHT HARMONIZATION & 8-CAMERA SHARED SCENE BANK
 NEXT: AUDIO-FIRST TIMECODE PIPELINE & >60% SINGLE-EPISODE CYCLE COMPRESSION BENCHMARK →
 
-===== P21 第 21 页 =====
+===== P21 干声前置声画定轴流水线：单集制作周期由 32h 压缩至 12h（-62.5%） =====
 
 https://lg9685294.github.io/portfolio/21/
 
@@ -1645,14 +1645,14 @@ Veo 3 / 3.1 · 都市霓虹与奇幻秘境空镜（占 15%） ATMOSPHERE
 PART 02 · AUDIO-FIRST TIMECODE WORKFLOW & SINGLE-EPISODE HOURS COMPRESSED -62.5%
 NEXT: PURE FULL-BLEED VISUAL SPREAD & 5-PERSON POD 2.5-WEEK ROLLING GANTT →
 
-===== P22 右豹商业订单池 × 百度 AI 精品漫剧联盟：暗黑都市悬疑与现代奇幻 2.5D 量产主视觉 =====
+===== P22 右豹 × 百度联盟主视觉：午夜暴雨霓虹连廊与鎏金怀表 2.5D 对峙巨幕 =====
 
 https://lg9685294.github.io/portfolio/22/
 
-[图片：P22 右豹商业订单池 × 百度 AI 精品漫剧联盟：暗黑都市悬疑与现代奇幻 2.5D 量产主视觉，已放入]
-22 / YOUBAO × BAIDU · URBAN SUSPENSE & FANTASY 右豹商业订单池 × 百度 AI 精品漫剧联盟：暗黑都市悬疑与现代奇幻 2.5D 量产主视觉
+[图片：P22 右豹 × 百度联盟主视觉：午夜暴雨霓虹连廊与鎏金怀表 2.5D 对峙巨幕，已放入]
+22 / YOUBAO × BAIDU · URBAN SUSPENSE & FANTASY 右豹 × 百度联盟主视觉：午夜暴雨霓虹连廊与鎏金怀表 2.5D 对峙巨幕
 
-===== P23 第 23 页 =====
+===== P23 连载付费卡点设计：前 3 秒强悬念钩子改造与跨集留存曲线优化 =====
 
 https://lg9685294.github.io/portfolio/23/
 
@@ -1770,7 +1770,7 @@ GATE M5 · D18 整包交付
 PART 02 · 5-PERSON POD ORGANIZATION, PEAK EXTERNAL ARTIST POOL & 18-DAY 50-EP GANTT
 NEXT: URBAN SUSPENSE & FANTASY COMIC "FIRST 3-SECOND HOOK" TEMPLATE LIBRARY →
 
-===== P24 第 24 页 =====
+===== P24 多模型分戏精准路由：Seedance 对白 × 可灵追逐打斗 × Veo 氛围空镜 =====
 
 https://lg9685294.github.io/portfolio/24/
 
@@ -1832,7 +1832,7 @@ COMFYUI 法线材质增强 + AE 金色流光 ARTIFACT AWAKEN
 PART 02 · URBAN SUSPENSE & FANTASY COMIC FIRST-3-SECOND HOOK LIBRARY (4 ARCHETYPES)
 NEXT: 560-EPISODE 3-TIER QC GATE, SEED REPAIR & 5:1 TO 1.3:1 WASTE REDUCTION LEDGER →
 
-===== P25 第 25 页 =====
+===== P25 两轮熔断拆镜止损与固定 Seed 局部修片：抽卡比由 5:1 压至 1.3:1 =====
 
 https://lg9685294.github.io/portfolio/25/
 
@@ -1943,7 +1943,7 @@ ZERO GPU WASTE 1.3:1 RATIO
 PART 02 · 3-TIER QC SYSTEM, FIXED-SEED LOCAL REPAIR & SHOT WASTE RATIO 5:1 → 1.3:1
 NEXT: PART 02 CLOSING LEDGER · 12-SERIES (560 EPS) COMMERCIAL PAYBACK & R&D SUMMARY →
 
-===== P26 第 26 页 =====
+===== P26 右豹 12 部 560 集收官复盘：两周半/50 集交片节拍与商业回本总账 =====
 
 https://lg9685294.github.io/portfolio/26/
 
@@ -2010,14 +2010,14 @@ PRECIPITATION 04 · 能力向上跃迁 SUMMER S-TIER READY
 END OF PART 02 · YOUBAO 12-SERIES (560 EPS) COMMERCIAL COMIC BATCH PRODUCTION LEDGER (P19—P26)
 NEXT PART 03: WEIMOB DOUBLE-11 HOME APPLIANCE 3C FILMS & TAOBAO《公关菜鸟》CUSTOM VISUALS →
 
-===== P27 微盟双 11 家电 3C 商业短片主视觉：微距工业金属质感与真实商品零变形合成 =====
+===== P27 微盟双 11 家电 3C 商业短片主视觉：钛金微距质感与超现实冰蓝风道 =====
 
 https://lg9685294.github.io/portfolio/27/
 
-[图片：P27 微盟双 11 家电 3C 商业短片主视觉：微距工业金属质感与真实商品零变形合成，已放入]
-27 / WEIMOB 11.11 · COMMERCIAL VISUAL 微盟双 11 家电 3C 商业短片主视觉：微距工业金属质感与真实商品零变形合成
+[图片：P27 微盟双 11 家电 3C 商业短片主视觉：钛金微距质感与超现实冰蓝风道，已放入]
+27 / WEIMOB 11.11 · COMMERCIAL VISUAL 微盟双 11 家电 3C 商业短片主视觉：钛金微距质感与超现实冰蓝风道
 
-===== P28 第 28 页 =====
+===== P28 代表作三 · 微盟双 11 家电 3C 商业短片矩阵与淘宝《公关菜鸟》总览 =====
 
 https://lg9685294.github.io/portfolio/28/
 
@@ -2111,7 +2111,7 @@ PACKSHOT TRUST
 PART 03 · COMMERCIAL BRIEF DEBRIEFING & 3-STAGE GOLDEN CONVERSION STRUCTURE
 NEXT: PPM AI ANIMATIC SHOT-LOCKING MECHANISM & ZERO WHOLE-SHOT REWORK →
 
-===== P29 第 29 页 =====
+===== P29 商业 Brief 反讲（Debrief）与 AI 动态故事板：实现 PPM 零整镜返工 =====
 
 https://lg9685294.github.io/portfolio/29/
 
@@ -2207,7 +2207,7 @@ FAST ALIGNMENT WITH BRAND WEIMOB KA
 PART 03 · PPM AI ANIMATIC PRE-VISUALIZATION & TIMECODE SIGN-OFF GATE
 NEXT: 3-STEP ZERO-DEFORMATION APPLIANCE & 3C PRODUCT LOCK PIPELINE →
 
-===== P30 第 30 页 =====
+===== P30 商业硬件零变形红线规范：三维白模锁透视 × 可灵光影 × AE 回贴真标 =====
 
 https://lg9685294.github.io/portfolio/30/
 
@@ -2277,7 +2277,7 @@ SQUAD ROLE BOUNDARY & QA · 小队协同分工与四道锁品门禁
 PART 03 · BLENDER CLAY + COMFYUI/KLING 1.5 AIRFLOW + AE LOGO TRACKING SOP
 NEXT: 4 MASTER 15S/30S TVCs · S01–S04 SHOT-BY-SHOT EXECUTION TABLE →
 
-===== P31 第 31 页 =====
+===== P31 双 11 四支商业主片标准化四幕执行单与 80+ 条千川投流切片矩阵 =====
 
 https://lg9685294.github.io/portfolio/31/
 
@@ -2348,14 +2348,14 @@ S01 通勤赤红噪波 → S02 声学腔体算力波纹 → S03 都市暗夜静�
 PART 03 · 4 MASTER 15S/30S APPLIANCE & 3C TVCs · SHOT-BY-SHOT PARAMETER SHEET
 NEXT: 16:9 TO 80+ QIANCHUAN 9:16 VERTICAL BUYOUT FISSION MATRIX →
 
-===== P32 淘宝独家冠名《公关菜鸟》定制短剧主视觉：都市时尚职场 Lookbook 与空间绘景 =====
+===== P32 淘宝独家冠名《公关菜鸟》主视觉：都市职场女主春上新多套穿搭画报 =====
 
 https://lg9685294.github.io/portfolio/32/
 
-[图片：P32 淘宝独家冠名《公关菜鸟》定制短剧主视觉：都市时尚职场 Lookbook 与空间绘景，已放入]
-32 / TAOBAO PR ROOKIE · LOOKBOOK VISUAL 淘宝独家冠名《公关菜鸟》定制短剧主视觉：都市时尚职场 Lookbook 与空间绘景
+[图片：P32 淘宝独家冠名《公关菜鸟》主视觉：都市职场女主春上新多套穿搭画报，已放入]
+32 / TAOBAO PR ROOKIE · LOOKBOOK VISUAL 淘宝独家冠名《公关菜鸟》主视觉：都市职场女主春上新多套穿搭画报
 
-===== P33 第 33 页 =====
+===== P33 定制短剧前置穿搭预演：ComfyUI 换装 Lookbook 对齐导演弧光与春上新货盘 =====
 
 https://lg9685294.github.io/portfolio/33/
 
@@ -2451,7 +2451,7 @@ WARDROBE BOARD
 PART 03 · TAOBAO EXCLUSIVE《公关菜鸟》COMFYUI WARDROBE PREVIS & STYLING LOCK
 NEXT: TAOBAO BENEFIT MOTION GRAPHICS SYSTEM & KUAISHOU SEEDING CUTDOWNS →
 
-===== P34 第 34 页 =====
+===== P34 软性商业植入包装：锁定换装登场与逆袭峰值顺势植入淘宝福利花字 =====
 
 https://lg9685294.github.io/portfolio/34/
 
@@ -2534,7 +2534,7 @@ KUAISHOU SEEDING CUTDOWNS · 快手种草拆条二创视效策略
 PART 03 ·《公关菜鸟》TAOBAO BENEFIT MOTION SYSTEM & KUAISHOU SEEDING CUTDOWNS
 NEXT: PART 03 CLOSING REVIEW · 3-PERSON COMMERCIAL VFX SQUAD LEDGER & SOP →
 
-===== P35 第 35 页 =====
+===== P35 3 人商业视效小队双线并行排产分工与商业交付控本账本 =====
 
 https://lg9685294.github.io/portfolio/35/
 
@@ -2601,7 +2601,7 @@ SOP 04 · 定制剧商业软植 LOOKBOOK + MG
 END OF PART 03 · WEIMOB 11.11 TVC MATRIX & TAOBAO《公关菜鸟》CUSTOM VISUALS (P27—P35)
 NEXT PART 04: JD × KUAISHOU《重生之我在AI世界当特工》SCI-FI VFX & 618 CAMPAIGN →
 
-===== P36 《重生之我在AI世界当特工》 =====
+===== P36 代表作四 · 京东 × 快手星芒《重生之我在AI世界当特工》16 集项目总览 =====
 
 https://lg9685294.github.io/portfolio/36/
 
@@ -2666,14 +2666,14 @@ ComfyUI (SDXL + ControlNet + SVD) 批量构建透视锁死的赛博都市与实�
 CHAPTER 04 · 618 E-COMMERCE SCI-FI BRIEF DECODING & LAYERED VFX STRATEGY
 NEXT: CYBER CITY & FUTURE LAB MATTE PAINTING BATCH PIPELINE →
 
-===== P37 京东 × 快手星芒《重生之我在AI世界当特工》主视觉：赛博都市数字绘景与 3C 护航 =====
+===== P37 《重生之我在AI世界当特工》主视觉：全息实验室与赛博霓虹都市科幻巨幕 =====
 
 https://lg9685294.github.io/portfolio/37/
 
-[图片：P37 京东 × 快手星芒《重生之我在AI世界当特工》主视觉：赛博都市数字绘景与 3C 护航，已放入]
-37 / JD × KUAISHOU · CYBER AGENT VISUAL 京东 × 快手星芒《重生之我在AI世界当特工》主视觉：赛博都市数字绘景与 3C 护航
+[图片：P37 《重生之我在AI世界当特工》主视觉：全息实验室与赛博霓虹都市科幻巨幕，已放入]
+37 / JD × KUAISHOU · CYBER AGENT VISUAL 《重生之我在AI世界当特工》主视觉：全息实验室与赛博霓虹都市科幻巨幕
 
-===== P38 第 38 页 =====
+===== P38 赛博数字绘景（Matte Painting）工程：单场置景成本压至传统搭棚十分之一 =====
 
 https://lg9685294.github.io/portfolio/38/
 
@@ -2755,7 +2755,7 @@ SDXL + SVD
 CHAPTER 04 · COMFYUI (SDXL + CONTROLNET + SVD) MATTE PAINTING PIPELINE
 NEXT: DIGITAL PORTAL SHUTTLE & DATA-STREAM TRANSITION EXECUTION SHEET →
 
-===== P39 第 39 页 =====
+===== P39 跨维穿越 6 镜连续执行单：实拍绿幕源与快手内部大模型数据流转场联调 =====
 
 https://lg9685294.github.io/portfolio/39/
 
@@ -2842,7 +2842,7 @@ SPLICE MASKING
 CHAPTER 04 · LIVE-TO-VIRTUAL PORTAL SHUTTLE & DATA-STREAM EXECUTION SHEET
 NEXT: JD 618 SHOPPING-CART 3C & APPLIANCE TRUTH LOCK + DAVINCI GRADING →
 
-===== P40 第 40 页 =====
+===== P40 618 挂载购物车商品保真：棚拍微距底图锁形与赛博霓虹环境光无损融合 =====
 
 https://lg9685294.github.io/portfolio/40/
 
@@ -2923,7 +2923,7 @@ CYBER TEAL & ORANGE FINAL
 CHAPTER 04 · STUDIO MACRO PRODUCT LOCK × NEON RELIGHTING × DAVINCI GRADING
 NEXT: JD 618 CO-BRANDED KV MATRIX & KUAISHOU 9:16 SLICES SAFE ZONE →
 
-===== P41 第 41 页 =====
+===== P41 快手星芒 9:16 竖屏宣发拆条：前 3 秒奇观视觉锤与 618 联名海报矩阵 =====
 
 https://lg9685294.github.io/portfolio/41/
 
@@ -3009,7 +3009,7 @@ BOTTOM 88–100% · 剧名集数与进度条区
 CHAPTER 04 · JD 618 CO-BRANDED KV MATRIX & KUAISHOU 9:16 PLC SAFE-ZONE SPEC
 NEXT: 420M+ PLAYS REPORT, 16-EPISODE VIRTUAL SET ROI & REUSABLE SOP →
 
-===== P42 第 42 页 =====
+===== P42 《重生之我在AI世界当特工》复盘：正片破 4.2 亿播放战报与虚拟置景效益账 =====
 
 https://lg9685294.github.io/portfolio/42/
 
@@ -3076,14 +3076,14 @@ SOP 04 · 竖屏挂车安全栅格 9:16 PLC GRID
 END OF CHAPTER 04 · JD 618 × KUAISHOU《重生之我在AI世界当特工》SUMMARY (P36—P42)
 NEXT CHAPTER 05: GAC TOYOTA SIENNA《旅程与AI，无可替代》TVC & CATL AUTO SHOW →
 
-===== P43 广汽丰田赛那《AI与远方》商业短片主视觉：家庭公路温情叙事与动态故事板预演 =====
+===== P43 广汽丰田赛那《AI与远方》商业短片主视觉：暮色车畔幼崽触碰数字生命 =====
 
 https://lg9685294.github.io/portfolio/43/
 
-[图片：P43 广汽丰田赛那《AI与远方》商业短片主视觉：家庭公路温情叙事与动态故事板预演，已放入]
-43 / TOYOTA SIENNA · AI & JOURNEY 广汽丰田赛那《AI与远方》商业短片主视觉：家庭公路温情叙事与动态故事板预演
+[图片：P43 广汽丰田赛那《AI与远方》商业短片主视觉：暮色车畔幼崽触碰数字生命，已放入]
+43 / TOYOTA SIENNA · AI & JOURNEY 广汽丰田赛那《AI与远方》商业短片主视觉：暮色车畔幼崽触碰数字生命
 
-===== P44 第 44 页 =====
+===== P44 代表作五（上）· 广汽丰田赛那父亲节商业短片四幕温情叙事与色彩对撞 =====
 
 https://lg9685294.github.io/portfolio/44/
 
@@ -3163,7 +3163,7 @@ CREATIVE VERDICT
 CHAPTER 05 · GAC TOYOTA SIENNA FATHER'S DAY TVC · CREATIVE & NARRATIVE ARCHITECTURE
 NEXT: VEHICLE GEOMETRY LOCK (CONTROLNET) & 48H ANIMATIC PPM PREVIS →
 
-===== P45 第 45 页 =====
+===== P45 车企级动态故事板（Animatic）提效：车身零畸变控制与 PPM 7 天缩至 2 天 =====
 
 https://lg9685294.github.io/portfolio/45/
 
@@ -3256,7 +3256,7 @@ OEM AUDIT REDLINES · 车企严苛审片标准下的三项硬核执行准则
 CHAPTER 05 · GAC TOYOTA SIENNA · CONTROLNET GEOMETRY LOCK & GEN-2 ANIMATIC
 NEXT: CATL 2023 GUANGZHOU AUTO SHOW USER-STARRING AIGC BLOCKBUSTER ARCHITECTURE →
 
-===== P46 第 46 页 =====
+===== P46 代表作五（下）· 宁德时代广州车展 AIGC 互动大片现场链路与展台引爆实况 =====
 
 https://lg9685294.github.io/portfolio/46/
 
@@ -3347,7 +3347,7 @@ STEP 03 SHARE
 CHAPTER 05 · CATL 2023 GUANGZHOU AUTO SHOW · OFFLINE-TO-ONLINE AIGC SYSTEM
 NEXT: 6 MOUNTAIN-SEA & URBAN WONDER BASE VIDEOS OPTICAL SPECIFICATION →
 
-===== P47 第 47 页 =====
+===== P47 6 套山海与城市奇观驾车底片（Base Video）光学规范：支撑实时换脸高成功率 =====
 
 https://lg9685294.github.io/portfolio/47/
 
@@ -3424,14 +3424,14 @@ MAIN STAGE LED + MINI-PROGRAM ZONE CATL BOOTH
 CHAPTER 05 · 6 BASE VIDEOS OPTICAL STANDARD & REAL-TIME FACE-FUSION HANDSHAKE
 NEXT: AUTOMOTIVE DUAL-CAMPAIGN BATTLE REPORT & BLUEFOCUS BENCHMARK REVIEW →
 
-===== P48 宁德时代广州车展互动大片主视觉：《山海奇旅》全画幅山海公路奇观底片全景 =====
+===== P48 宁德时代广州车展互动大片主视觉：《山海奇旅》海岸公路驾车底片全景 =====
 
 https://lg9685294.github.io/portfolio/48/
 
-[图片：P48 宁德时代广州车展互动大片主视觉：《山海奇旅》全画幅山海公路奇观底片全景，已放入]
-48 / CATL AUTO SHOW · BASE VIDEO PANORAMA 宁德时代广州车展互动大片主视觉：《山海奇旅》全画幅山海公路奇观底片全景
+[图片：P48 宁德时代广州车展互动大片主视觉：《山海奇旅》海岸公路驾车底片全景，已放入]
+48 / CATL AUTO SHOW · BASE VIDEO PANORAMA 宁德时代广州车展互动大片主视觉：《山海奇旅》海岸公路驾车底片全景
 
-===== P49 第 49 页 =====
+===== P49 全册收官总账：跨四大业务赛道 1,250+ 分钟「成本—工时—良率—商业结果」台账 =====
 
 https://lg9685294.github.io/portfolio/49/
 
@@ -3504,7 +3504,7 @@ VERIFIED HONORS
 PORTFOLIO MASTER LEDGER · 1,250+ MINUTES DELIVERED ACROSS AIGC SERIES, CUSTOM DRAMAS & BRAND FILMS
 NEXT: FINAL CLOSING BACK COVER, CONTACT & ONLINE SHOWREEL QR →
 
-===== P50 封底 · 岗位匹配方向与联系方式 =====
+===== P50 终章结语 · 目标岗位能力对位与在线成片库联系方式 =====
 
 https://lg9685294.github.io/portfolio/50/
 
