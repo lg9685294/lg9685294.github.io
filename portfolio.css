@@ -3532,5 +3532,12 @@ body.pf-app{margin:0;height:100vh;height:100dvh;display:flex;flex-direction:colu
  .ui-actions .emphasis{background:transparent;color:var(--ui-active)}.ui-actions .emphasis:hover{background:#e5eadd}
 }
 @media(max-width:339px){.ui-head-inner{padding:0 9px;gap:6px}.ui-id-name{max-width:55px}.ui-nav{gap:9px}.ui-actions .ui-action{min-width:30px}}
+@media(max-width:850px){
+ .ui-head-inner{grid-template-columns:1fr auto;gap:0 12px;padding-block:6px 0}
+ .ui-id,.ui-actions{grid-row:1}.ui-actions{grid-column:2}
+ .ui-nav{grid-column:1/-1;grid-row:2;justify-content:flex-start;flex-wrap:wrap;column-gap:clamp(8px,3vw,22px);row-gap:0}
+ .ui-nav a{padding:7px 0 6px;font-size:13px;white-space:normal}.ui-nav small{display:none}
+}
+@media(min-width:851px) and (max-width:1030px){.ui-head-inner{gap:12px;padding-inline:20px}.ui-nav{gap:20px}}
 @media(prefers-reduced-motion:no-preference){.ui-action,.ui-option,.ui-segments a,.ui-segments button,.ui-nav a{transition:background .15s,color .15s,border-color .15s}}
 @media print{.ui-head,.ui-toast,.ui-no-print{display:none!important}}
