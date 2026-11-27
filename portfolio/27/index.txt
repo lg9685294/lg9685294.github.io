@@ -1,59 +1,6 @@
 李果 · 影像作品集
 
-第 27 页 · 商业硬件 0 幻觉锁死工程：棚拍微距 × 3D 白模定透视 × ControlNet 受光融合 × 原厂真标无损回贴
+第 27 页 · 微盟双 11 家电 3C 商业短片主视觉：微距工业金属质感与真实商品零变形合成
 https://lg9685294.github.io/portfolio/27/
 
-02 / PRODUCT TRUTH LOCK ENGINEERING
-/
-商业硬件 0 幻觉锁死工程：棚拍微距 × 3D 白模定透视 × ControlNet 受光融合 × 原厂真标无损回贴
-解决商业 AIGC 头号死穴「产品变形与假字」 · 家电客户一审通过核心壁垒
-27
-4-STEP HARDWARE TRUTH PIPELINE · 以《晚唐婚嫁图》海信小榴莲冰箱与《双飞天》新风空调嵌合为例
-产品结构 100% 物理刚性 · 环境交互光影 100% 自然包裹
-STEP 01 · 棚拍微距与六视图 STUDIO RAW
-采集高精真机材质与原厂标
-获取品牌官方 CAD 尺寸与高像素棚拍多角度产品图，分离机身面板、内胆隔层与矢量 Logo 透明层。
-→
-STEP 02 · 3D 白模对齐洞窟机位 3D CAMERA MATCH
-锁死透视灭点与开门运动轴
-在 Blender 按目标分镜焦段（35mm 微仰拍）摆入冰箱 1:1 体块白模与开门动画，导出精准 Depth 与法线通道。
-→
-STEP 03 · ControlNet 控光融合 RELIGHTING
-洞窟烛火与飞天流光自然投射
-固定产品外轮廓遮罩，用 IC-Light / ControlNet Depth 重算洞窟暖光在冰箱金属面板上的漫反射与地面阴影。
-→
-STEP 04 · 平面跟踪回贴真标 MOCHA TRACK
-Mocha 跟踪回贴温控屏与 Logo
-运镜推近过程中，通过 Mocha 平面跟踪将原厂高清拉丝面板、数显温控 UI 与品牌标像素级贴合，实现 0 幻觉。
-VISUAL BREAKDOWN · 商品真值锁死三阶拆解留位（以海信小榴莲冰箱入青庐婚宴为例）
-01 · 真机棚拍与矢量真标源 SOURCE TRUTH
-[ 棚拍真机微距与原厂 Logo 拆分层留位 ]
-面板肤感材质、小榴莲徽标与内部独立分储抽屉真值图
-CAD PROPORTION 1:1 BRAND ASSET
-→
-02 · 洞窟婚宴机位 3D 白模 + Depth PERSPECTIVE LOCK
-[ Blender 青庐喜宴食案 + 冰箱开门白模留位 ]
-精确标定螃蟹牡丹饼、榴莲与双开门旋转轴遮挡深度
-DEPTH + CANNY + MASK ZERO WARP
-→
-03 · 岩彩婚宴环境控光 + 真标回贴成片 FINAL COMPOSITE
-[ 最终过审成片帧留位 · 古今同框零违和 ]
-晚唐喜烛暖光自然映亮机身倒角，Logo 与数显屏锐利无瑕
-CLIENT 1ST-PASS APPROVED 4K MASTER
-难点攻克 A · 空调出风口百叶细密格栅防摩尔纹与粘连 AC LOUVER DETAIL
-视频模型生成推镜时极易把空调细密导风百叶糊成一团；采用「静态锁死机身主体 + 仅分层生成前景半透明岩彩清风粒子」完美解决。
-难点攻克 B · 水星家纺织物提花纹样与柔顺物理动态兼得 TEXTILE FIDELITY
-先以大漠风沙丝绸白模跑通柔顺飘落动态，再利用 UV 光流映射（Optical Flow）将客户指定款蚕丝被提花暗纹贴合至运动布料表面。
-QA CHECKLIST · 商业商品入画四道必检门禁
-CHECK 01 · 几何长宽比零畸变 GEOMETRY
-成片截帧叠回官方产品正侧线稿，边缘像素偏差严格控制在 <0.5%，严禁广角桶形畸变拉胖家电。
-CHECK 02 · 材质固有色还原 MATERIAL CMF
-即使处于浓烈敦煌烛火或大漠夕阳下，机身主面板 CMF（米白/冰川银）偏色不超容差，不做脏旧化污染。
-CHECK 03 · 品牌标与 UI 100% 原生 LOGO & UI
-放大至 200% 逐帧检查品牌中英文标识、能效贴与显示屏数字，100% 源自授权矢量层合成。
-0 幻觉
-三大家电家纺硬件穿帮
-90%
-品牌监制试片一次过审
-CHAPTER 02 · STUDIO MACRO + 3D CLAY + CONTROLNET HARDWARE TRUTH LOCK
-NEXT: VISUAL BUFFER SPREAD · 4 SERIES TVC STORYBOARD & HERO FRAMES →
+27 / WEIMOB 11.11 · COMMERCIAL VISUAL 微盟双 11 家电 3C 商业短片主视觉：微距工业金属质感与真实商品零变形合成

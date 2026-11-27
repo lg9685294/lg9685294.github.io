@@ -1,71 +1,63 @@
 李果 · 影像作品集
 
-第 31 页 · 商业级疑难排障与审片迭代：三大广告片致命穿帮精修 ×「异类 Outliers + 京东监制」三轮定稿闭环
+第 31 页 · 第 31 页
 https://lg9685294.github.io/portfolio/31/
 
-02 / COMMERCIAL QC & CLIENT ITERATION
+03 / 4 MASTER TVCs · SHOT-BY-SHOT TABLE
 /
-商业级疑难排障与审片迭代：三大广告片致命穿帮精修 ×「异类 Outliers + 京东监制」三轮定稿闭环
-单轮只改一变量 · 废稿留痕可回滚 · 试片客户一次过审率 90%
+4 支 15s/30s 家电 3C 主片核心分镜一镜一图执行总表（S01 痛点奇观 → S04 标准真标 Packshot）
+覆盖冰箱 · 空调 · 洗护 · 3C 数码四支主片 · 单镜净版画面留位与完整工程参数
 31
-AGENCY & BRAND REVIEW LOOP · 商业承制如何高效对接前端代理与甲方监制（不扯皮、不盲改）
-先锁静帧 Lookdev 签字 → 再跑动态 Animatic → 终审 4K 成片
-GATE A · 静帧签字门禁 LOOKDEV SIGN-OFF
-未确认商品与岩彩不跑视频
-先交付每支片 4 张核心定调静帧（含商品真机落位），获异类创意总监与品牌方书面确认后再开启动态算力。
-→
-ROUND 01 · 动态粗剪反馈 V1 FEEDBACK
-产品出场前移 1.5 秒
-代理商反馈《双飞天》前段壁画铺垫略长；当即裁剪 S01 尾段并将新风吹入声桥提前至第 4 秒，节奏立稳。
-→
-ROUND 02 · 品牌细节精修 V2 POLISH
-冰箱面板色温校准与手印修正
-品牌监制指出洞窟红烛令白色机身偏黄；在达芬奇单独分离产品 Mask 回拉 6500K 纯净冷白高光。
-→
-ROUND 03 · 4K 终审签收 FINAL MASTER
-4 支主片 + 多端物料零延误交片
-本地超分至 3840×2160 ProRes 母版，封装片尾授权联名动效，90% 镜头首轮试片即获通过。
-商业排障 01（家电金属反射污染）：洞窟复杂彩绘随运镜在冰箱面板上产生「油污状流动彩斑」
-SURFACE REFLECTION NOISE → CLEAN PASS COMPOSITE
-BEFORE · 面板反光显脏 BRAND REJECT
-[ 废镜留位 · 机身表面AI生成杂乱彩色噪斑 ]
-破坏高端家电洁净品质感
-CMF CONTAMINATED DEFECT 01
-→
-病因诊断 ：视频扩散模型将后景高饱和岩彩纹理错误映射到前景高反光机身区域，形成伪影。
-排障处方 ：剥离 AI 生成的产品表面像素，改用 棚拍干净底片 + Blender 线性高光扫光层（Specular Pass）合成 ，既有洞窟暖光边缘包裹，面板中心又洁净如新。
-→
-AFTER · 柔光高级金属质感 APPROVED
-[ 过审帧留位 · 机身纯净清透边缘带暖金轮廓光 ]
-完美符合家电行业广告大片打光标准
-STUDIO GRADE CMF CLEAN PASS
-商业排障 02（敦煌反弹琵琶与拈花手印）：飞天高速旋舞时出现「手指多指扭曲、琵琶琴颈断裂」
-MUDRA & LUTE DEFECT → INPAINT + RIGID PROP TRACK
-BEFORE · 手印与琵琶变形 IP REJECT
-[ 废镜留位 · 兰花指粘连且曲项琵琶变弯 ]
-不符合敦煌乐舞严谨仪轨
-PROP MELT DEFECT 02
-→
-病因诊断 ：曲项琵琶弦轴细节多且伴随手腕翻转，单靠提示词无法维持唐代乐器刚体几何。
-排障处方 ：锁死已生成的优美飞天身段 Seed，抽关键帧入 ComfyUI 用敦煌拈花手印深度图局部重绘五指 ，并将独立精修的曲项琵琶资产做运动跟踪替换。
-→
-AFTER · 拈花指与琵琶精准 APPROVED
-[ 过审帧留位 · 唐代曲项琵琶笔直、兰花手印灵动 ]
-经敦煌美术研究所细节审校一次过关
-CULTURAL ACCURACY SAVED SEED
-商业排障 03（二维壁画破壁色阶断层）：从斑驳泥墙过渡到三维人物时「面部突发阴阳脸块状闪烁」
-TRANSITION FLICKER → DUAL-STREAM MORPH + GRAIN
-BEFORE · 破壁中途脸部跳闪 FLICKER
-[ 废镜留位 · 第 48–62 帧壁画剥落纹卡在脸上 ]
-看起来像面部污损而非破壁奇观
-TEXTURE ARTIFACT DEFECT 03
-→
-病因诊断 ：首帧粗粝泥墙纹理与尾帧细腻皮肤反差过大，中间插帧不知道何时褪去裂纹。
-排障处方 ：在 AE 建立 金砂粒子擦除遮罩（Luma Wipe） ，让五官区域在 8 帧内借一道高光金粉顺滑切换至干净三维肌理，彻底消除卡顿脏斑。
-→
-AFTER · 金粉流光丝滑破壁 APPROVED
-[ 过审帧留位 · 金砂掠过瞬间神采奕奕破壁而出 ]
-成为全案最具传播力的核心记忆镜头
-HERO TRANSITION ZERO FLICKER
-CHAPTER 02 · COMMERCIAL DEFECT TRIAGE & AGENCY/BRAND SIGN-OFF WORKFLOW
-NEXT: CAMPAIGN CALLIGRAPHY LOCKUP & WEIBO/XIAOHONGSHU KV POSTER MATRIX →
+MASTER 4-ACT SHOT EXECUTION · 四支双11商业主片共用的标准化四幕核心镜头图卡与管线参数总表
+ACT 01–02（0–7s）：前 3 秒痛点奇观钩子 + 微距风道贯穿
+ACT 03–04（7–15s/30s）：高奢虚拟置景融合 + 标准真标 Packshot 落版
+SHOT S01 · 00.0s—03.0s 100mm MACRO · 25FPS
+[ S01 单镜画面留位 · 前 3 秒热浪 / 结霜痛点奇观 ]
+玻璃窗炙热扭曲热浪 / 鲜果表面瞬结粗糙冰刺超微距特写
+COMFYUI FLUX + KLING 1.5 HOOK 0–3S
+S01 · 前 3 秒热浪 / 结霜痛点奇观钩子 ATTENTION HOOK
+画面与运镜 ：100mm 微距高速推近，前 0.5s 即爆发高反差物理痛点（热浪气旋扭曲室内光影 / 冰霜结晶爬满果皮），强截停刷流人群。
+生成与控制参数 ：ComfyUI 定标高锐度微距首尾帧（Denoise 0.62）→ 可灵 1.5 首尾帧夹逼控制结霜蔓延速率，局部遮罩锁死主体轮廓。
+声效卡点 ：高频炙烤滋滋声 / 冰晶脆裂声在 2.8s 骤然抽空，为真机出场蓄满张力。
+MODULAR SLOT: 支持千川 5 版痛点钩子热插拔 ZERO DEAD AIR
+SHOT S02 · 03.0s—07.5s 24mm PROBE · 25FPS
+[ S02 单镜画面留位 · 超现实微距风道光影贯穿 ]
+冰蓝超导风道粒子自空调百叶 / 冰箱风口呼啸涌出扫平痛点
+BLENDER DEPTH + MOTION BRUSH CORE VFX
+S02 · 超现实微距风道与粒子光影贯穿 AIRFLOW BREAKTHROUGH
+画面与运镜 ：特种探针镜头（Probe Lens）顺滑掠过金属出风口倒角，半透明冰感流线与微米凝霜光点呈螺旋流场贯穿全屏。
+生成与控制参数 ：Blender 1:1 白模导出 Depth + Normal 硬锁导风板直线结构；可灵 1.5 运动笔刷划定 S 型送风矢量，后期叠丁达尔光束。
+核心转化作用 ：无需一行说明字幕，静音状态下 1 秒看懂“全域循环大风量 / 独立净味冷风盾”技术卖点。
+RIGID MASK: 机身格栅 100% 静态防融化保护 HERO TECH SHOT
+SHOT S03 · 07.5s—11.5s 35mm WIDE · 25FPS
+[ S03 单镜画面留位 · 客厅 / 厨房虚拟高奢置景同框 ]
+真机零违和嵌入意式极简岩板厨房 / 落地窗江景大平层客厅
+IC-LIGHT RELIGHTING + 3D MATCH VIRTUAL SET
+S03 · 客厅 / 厨房虚拟高奢置景融合 LUXURY VIRTUAL SET
+画面与运镜 ：35mm 中广角缓慢横移摇镜，展示超薄平嵌冰箱与定制岩板橱柜严丝合缝，晨光透过百叶窗在机身拉出柔和金属高光。
+生成与控制参数 ：以实拍/白模产品透视反推虚拟空间灭点，ComfyUI (SDXL + ControlNet Depth + IC-Light) 生成高奢厨居环境与真实地面倒影。
+制片降本价值 ：零实景租赁费实现百万级精装样板间大片质感，且可根据 KA 品牌调性一日切换冷暖两套家居陈设。
+SET COST SAVED: 免除高奢厨居实景搭台开支 SEAMLESS SHADOW
+SHOT S04 · 11.5s—15.0s / 30.0s 50mm STD · 4K MASTER
+[ S04 单镜画面留位 · 标准真标 Packshot 与双11落版 ]
+棚拍真机纯净定格 + 原厂矢量 Logo / 数显屏 + 双11利益角标
+AE + MOCHA NATIVE COMPOSITE PACKSHOT LOCK
+S04 · 标准真标 Packshot 与双11利益落版 100% BRAND TRUTH
+画面与运镜 ：50mm 标准镜头零畸变稳健定格，一道柔顺轮廓扫光掠过机身金属铭牌，右侧黄金留白区浮现品牌联名标与双11政企双补机制。
+后期合成参数 ：后期组 AE 3D 反求 + Mocha 平面跟踪 100% 回贴原厂矢量 Logo、温控屏 UI 与产品型号字标，达芬奇校准官方标准 CMF 色值。
+合规审校 ：放大 200% 核查边缘无锯齿、无 AI 伪字符，无缝衔接天猫/抖音商卡转化。
+QA PASSED: 品牌市场部与法务合规一次签收 4K PRORES / H.264
+MASTER TVC 01 · 30s / 15s
+超薄平嵌双循环冰箱篇
+S01 果蔬结霜串味 → S02 双舱冰蓝净味盾 → S03 岩板高奢厨房平嵌 → S04 零度保鲜真机落版
+MASTER TVC 02 · 15s
+全域新风无风感空调篇
+S01 玻璃热浪沉闷 → S02 微距百叶新风流线 → S03 江景客厅薄纱微拂 → S04 一级能效真标落版
+MASTER TVC 03 · 30s / 15s
+超微净泡洗烘护套装篇
+S01 纤维油渍放大 → S02 亿万微泡穿透织物 → S03 极简阳台洗烘叠放 → S04 羊毛绿标面板落版
+MASTER TVC 04 · 15s
+旗舰声学降噪 3C 数码篇
+S01 通勤赤红噪波 → S02 声学腔体算力波纹 → S03 都市暗夜静谧书房 → S04 金属充电舱真标落版
+PART 03 · 4 MASTER 15S/30S APPLIANCE & 3C TVCs · SHOT-BY-SHOT PARAMETER SHEET
+NEXT: 16:9 TO 80+ QIANCHUAN 9:16 VERTICAL BUYOUT FISSION MATRIX →

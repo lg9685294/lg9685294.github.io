@@ -4,8 +4,8 @@
     "name": "李果",
     "targetRole": "AIGC精品剧项目制片｜导演向AI视频主管",
     "targetDirections": [
-      "精品短剧",
-      "AI 漫剧",
+      "AI 精品漫剧",
+      "平台定制短剧",
       "品牌商业短片"
     ],
     "cities": [
@@ -18,8 +18,8 @@
     }
   },
   "site": {
-    "version": "V21",
-    "updatedAt": "2026-11-27T17:58:00+08:00",
+    "version": "V22",
+    "updatedAt": "2026-11-27T18:20:00+08:00",
     "pages": {
       "home": "https://lg9685294.github.io/",
       "resume": "https://lg9685294.github.io/resume/",
@@ -56,7 +56,7 @@
         "highlights": [
           "独立产线排期与协同管理：负责 5 人组日常排产与审片（直抓美术定调、前 3 秒留存卡点改造及疑难废镜排障；协同组内编剧细化台词、生成师抽卡重绘、后期组 PR/AE/达芬奇成片包装及旺季外部画师补位），跑通两周半交付一部 50 集漫剧的稳定节奏。",
           "模型换代管线与损耗控制：随 2025—2026 模型升级持续迭代 SOP，按「四视图光影定标→文戏 Seedance / 动作戏可灵 / 空镜 Veo 分流→固定 Seed 局部修补」执行三级审片，将组内平均抽卡损耗比由初期约 5:1 压降至 1.3:1（废片率约 22%）。",
-          "单分钟成本核算与总产出：在月均稳定交付约 90 分钟成片规模下，含人力分摊的全包成本控制在 1,380—1,650 元/分钟（直接 API 算力 360—420 元/分钟）；完成二维动画《猪屁登》AIGC 管线内部验证，累计交付右豹商业漫剧 12 部（560 集）及《予你深情侵入余生》暑期分包 85 集。"
+          "单分钟成本核算与总产出：在月均稳定交付约 90 分钟成片规模下，含人力分摊的全包成本控制在 1,380—1,650 元/分钟（均值约 1,450 元/分钟，直接 API 算力 360—420 元/分钟）；累计整包交付右豹商业漫剧 12 部（约 560 集）及《予你深情侵入余生》暑期分包 85 集（合计超 1,250 分钟成片）。"
         ]
       },
       {
@@ -71,7 +71,7 @@
         ]
       },
       {
-        "org": "广州蓝色光标数字营销有限公司（华南事业群）",
+        "org": "广州蓝色光标市场顾问有限公司（蓝标数字 · 华南事业群）",
         "role": "商业视频编导 / AIGC视觉执行",
         "start": "2022-07",
         "end": "2023-11",
@@ -93,14 +93,14 @@
       }
     ],
     "projectIds": [
+      "P2",
       "P166611683",
-      "P3914513309",
       "P3936768118",
       "P855833790",
       "P3997254159"
     ],
     "skills": [
-      "Seedance 2.5 / 可灵 4.0 / Veo 分戏调度",
+      "Seedance 2.5 / 可灵 3.0 / Veo 分戏调度",
       "ComfyUI 光影定调与固定 Seed 局部修片",
       "商业 Brief 拆解、前3秒留存与 3D 预演",
       "5人独立组排期统筹与单分钟算力核算",
@@ -109,14 +109,13 @@
     "tools": [
       "Seedance 2.5",
       "Seedance 2.0",
-      "可灵 4.0",
+      "可灵 3.0",
       "可灵 2.5 Turbo",
       "Veo 3.1",
       "ComfyUI",
       "ControlNet",
       "Midjourney V5",
       "Runway Gen-2",
-      "Blender",
       "PR",
       "AE",
       "DaVinci Resolve"
@@ -125,41 +124,41 @@
   "projects": [
     {
       "id": "P1",
-      "name": "《云浮若梦归》",
-      "type": "古装 AI 仿真人短剧",
+      "name": "《予你深情侵入余生》（第3—5季分包）",
+      "type": "2.5D 豪门言情 AI 漫剧",
       "nature": null,
-      "myRole": "项目制片 / 视听统筹",
+      "myRole": "分季承制组长",
       "teamOrSolo": "团队",
-      "start": "2026-01",
-      "end": "2026-04",
-      "client": "爱奇艺、红果",
+      "start": "2026-06",
+      "end": "2026-08",
+      "client": "深圳不鸣文化 · 红果 / 抖音",
       "inResume": false,
-      "portfolioPages": "P04-P21",
-      "pageCount": 18,
+      "portfolioPages": "P07-P18",
+      "pageCount": 12,
       "visuals": {
-        "ready": 0,
-        "total": 82
+        "ready": 3,
+        "total": 65
       },
       "videos": [],
       "keyData": [
         {
-          "metric": "集数",
-          "value": "60 集",
+          "metric": "承制集数",
+          "value": "85 集（约 200 分钟）",
           "source": "简历自述"
         },
         {
-          "metric": "制作周期",
-          "value": "18 天",
+          "metric": "全系总播放",
+          "value": "86 亿+",
           "source": "简历自述"
         },
         {
-          "metric": "单分钟成本",
-          "value": "1,450 元",
+          "metric": "红果收藏",
+          "value": "716 万",
           "source": "简历自述"
         },
         {
-          "metric": "站内热度",
-          "value": "5,077 万+",
+          "metric": "单分钟全包",
+          "value": "约 1,450 元",
           "source": "简历自述"
         }
       ],
@@ -167,31 +166,41 @@
     },
     {
       "id": "P2",
-      "name": "《敦煌寻新记》",
-      "type": "品牌 TVC 与快闪展陈",
+      "name": "右豹商业订单池 × 百度 AI 精品漫剧联盟",
+      "type": "都市悬疑与奇幻商业漫剧批次",
       "nature": null,
-      "myRole": "AIGC 视效承制统筹 / 执行导演",
+      "myRole": "项目制片",
       "teamOrSolo": "团队",
-      "start": "2025-08",
-      "end": "2025-10",
-      "client": "京东 × 敦煌美术研究所",
-      "inResume": false,
-      "portfolioPages": "P22-P36",
-      "pageCount": 15,
+      "start": "2025-05",
+      "end": "2026-05",
+      "client": "深圳不鸣文化 · 右豹 / 百度联盟",
+      "inResume": true,
+      "portfolioPages": "P19-P26",
+      "pageCount": 8,
       "visuals": {
-        "ready": 0,
-        "total": 50
+        "ready": 1,
+        "total": 18
       },
       "videos": [],
       "keyData": [
         {
-          "metric": "系列 TVC",
-          "value": "4 支",
+          "metric": "整包交付",
+          "value": "12 部（约 560 集）",
           "source": "简历自述"
         },
         {
-          "metric": "试片一次过审率",
-          "value": "90%",
+          "metric": "交片节拍",
+          "value": "两周半 / 50 集",
+          "source": "简历自述"
+        },
+        {
+          "metric": "抽卡损耗比",
+          "value": "5:1 压至 1.3:1",
+          "source": "简历自述"
+        },
+        {
+          "metric": "站内热度",
+          "value": "1,500 万—3,000 万",
           "source": "简历自述"
         }
       ],
@@ -199,46 +208,36 @@
     },
     {
       "id": "P3",
-      "name": "《咒术反噬？我有无限血条》",
-      "type": "古风奇幻 AI 漫剧",
+      "name": "微盟双11家电3C商业短片与淘宝《公关菜鸟》",
+      "type": "品牌商业短片与定制短剧",
       "nature": null,
-      "myRole": "执行导演 / 项目制片",
+      "myRole": "AIGC视效统筹",
       "teamOrSolo": "团队",
-      "start": "2025-05",
-      "end": "2025-08",
-      "client": null,
+      "start": "2024-09",
+      "end": "2025-03",
+      "client": "微盟 KA 商家 · 淘宝 / 快手",
       "inResume": false,
-      "portfolioPages": "P37-P41",
-      "pageCount": 5,
+      "portfolioPages": "P27-P35",
+      "pageCount": 9,
       "visuals": {
-        "ready": 0,
-        "total": 13
+        "ready": 2,
+        "total": 31
       },
       "videos": [],
       "keyData": [
         {
-          "metric": "集数",
-          "value": "80 集",
+          "metric": "商业主片",
+          "value": "4 支 + 80+ 千川切片",
           "source": "简历自述"
         },
         {
-          "metric": "制作周期",
-          "value": "21 天",
+          "metric": "定制短剧",
+          "value": "8 集",
           "source": "简历自述"
         },
         {
-          "metric": "废卡率",
-          "value": "≤24%",
-          "source": "简历自述"
-        },
-        {
-          "metric": "单分钟成本",
-          "value": "1,250 元",
-          "source": "简历自述"
-        },
-        {
-          "metric": "追看完播率",
-          "value": "52%",
+          "metric": "PPM 返工",
+          "value": "0 整镜返工",
           "source": "简历自述"
         }
       ],
@@ -246,26 +245,36 @@
     },
     {
       "id": "P4",
-      "name": "《如果AI》",
-      "type": "实拍融合科幻微短剧",
+      "name": "京东冠名 × 快手星芒《重生之我在AI世界当特工》",
+      "type": "赛博科幻商业定制短剧",
       "nature": null,
-      "myRole": "资深 AIGC 视频设计师",
+      "myRole": "资深AIGC视效编导",
       "teamOrSolo": "团队",
-      "start": "2024-05",
-      "end": "2024-10",
-      "client": "河马剧场、抖音（宣发平台）",
+      "start": "2024-04",
+      "end": "2024-06",
+      "client": "京东 × 快手星芒",
       "inResume": false,
-      "portfolioPages": "P42-P46",
-      "pageCount": 5,
+      "portfolioPages": "P36-P42",
+      "pageCount": 7,
       "visuals": {
-        "ready": 0,
-        "total": 13
+        "ready": 1,
+        "total": 27
       },
       "videos": [],
       "keyData": [
         {
-          "metric": "竖屏预热切片",
-          "value": "15+ 版",
+          "metric": "全剧体量",
+          "value": "16 集",
+          "source": "简历自述"
+        },
+        {
+          "metric": "正片播放",
+          "value": "4.2 亿+",
+          "source": "简历自述"
+        },
+        {
+          "metric": "挂载商品",
+          "value": "外观零变形",
           "source": "简历自述"
         }
       ],
@@ -273,26 +282,36 @@
     },
     {
       "id": "P5",
-      "name": "《#万物皆可YOGA#》",
-      "type": "品牌整合营销",
+      "name": "广汽丰田赛那短片与宁德时代广州车展互动大片",
+      "type": "车企商业短片与展陈互动",
       "nature": null,
-      "myRole": "商业视频编导 / AIGC 视觉执行",
+      "myRole": "商业视频编导 / AIGC视觉执行",
       "teamOrSolo": "团队",
-      "start": "2023-05",
-      "end": "2023-08",
-      "client": "联想",
+      "start": null,
+      "end": null,
+      "client": "广汽丰田 · 宁德时代",
       "inResume": false,
-      "portfolioPages": "P47-P48",
-      "pageCount": 2,
+      "portfolioPages": "P43-P48",
+      "pageCount": 6,
       "visuals": {
-        "ready": 0,
-        "total": 8
+        "ready": 2,
+        "total": 20
       },
       "videos": [],
       "keyData": [
         {
-          "metric": "比稿周期",
+          "metric": "PPM 提速",
           "value": "7 天缩至 2 天",
+          "source": "简历自述"
+        },
+        {
+          "metric": "裂变 UV 占比",
+          "value": "80%",
+          "source": "简历自述"
+        },
+        {
+          "metric": "留资转化率",
+          "value": "90%",
           "source": "简历自述"
         }
       ],
@@ -307,27 +326,6 @@
       "teamOrSolo": null,
       "start": "2026-06",
       "end": "2026-08",
-      "client": null,
-      "inResume": true,
-      "portfolioPages": null,
-      "pageCount": 0,
-      "visuals": {
-        "ready": 0,
-        "total": 0
-      },
-      "videos": [],
-      "keyData": [],
-      "status": "待补"
-    },
-    {
-      "id": "P3914513309",
-      "name": "国民二维动画 IP《猪屁登》AIGC 管线测试与右豹商业漫剧批次交付",
-      "type": null,
-      "nature": null,
-      "myRole": "项目制片",
-      "teamOrSolo": null,
-      "start": "2025-05",
-      "end": "2026-05",
       "client": null,
       "inResume": true,
       "portfolioPages": null,
@@ -405,10 +403,10 @@
     }
   ],
   "materials": {
-    "have": 0,
-    "pending": 174,
+    "have": 19,
+    "pending": 159,
     "todo": null,
-    "note": "按逐页明确标出的作品图位统计，概览中重复展示的位置分别计数。头像、二维码和排版示意不计入作品画面。未上网素材的制作进度待补。职业路径规划练习。所列任职、项目分工和业绩尚待凭证核实。"
+    "note": "按逐页明确标出的作品图位统计，概览中重复展示的位置分别计数。头像、二维码和排版示意不计入作品画面。未上网素材的制作进度待补。李果个人简历与 50 页影像作品集（2021—2026 代表项目与制片账本）。"
   },
   "help": {
     "replyDocUrl": null,
@@ -416,9 +414,9 @@
       {
         "id": "Q01",
         "type": "问题",
-        "location": "简历 · 工作经历 / P50 · 成长路径总结",
-        "desc": "这份职业路径规划从网易实习、蓝色光标编导、点众视频设计写到顺动项目制片。哪些作品能说明本人职责与能力的变化，哪些只能说明项目存在？这样的衔接问题需要局部改写，还是重做简历结构？",
-        "want": "请指出 2 处具体疑点，标明公司或作品页码，各给 1 条修改建议，并判断是否需要重做。",
+        "location": "简历 · 详细版 / 作品集 · 全册总账",
+        "desc": "当前四段履历（网易游戏实习 → 广州蓝色光标商业编导 → 鸣白文化视效统筹 → 深圳不鸣文化 AIGC 精品剧制片组长）与五项代表作的职责递进、数据口径和阅读顺序是否还有需要收紧之处？",
+        "want": "请指出具体段落或页码，并给出针对性修改建议。",
         "priority": "高",
         "state": "待回复",
         "date": "2026-11-27",
@@ -429,8 +427,8 @@
   },
   "changelog": [
     {
-      "time": "2026-11-27T17:58:00+08:00",
-      "change": "按《猪屁登》二维动画 IP 事实校准全站简历，统一改为 2D LoRA 锁型、ComfyUI 线稿平涂首尾帧与可灵/Seedance 二维生成管线。"
+      "time": "2026-11-27T18:20:00+08:00",
+      "change": "将第二章收敛聚焦为右豹 12 部（560 集）精品漫剧量产专章；校准广州蓝色光标市场顾问有限公司工商全称、模型上线时间线与全站标点规范。"
     },
     {
       "time": "2026-11-27T17:30:00+08:00",
@@ -439,22 +437,6 @@
     {
       "time": "2026-11-27T17:19:00+08:00",
       "change": "替换线上简历（一页简版、详细版与整套预览）为最新定稿版本，同步更新全文与监控数据。"
-    },
-    {
-      "time": "2026-11-27T17:10:15+08:00",
-      "change": "求助页说明已对齐教师流程：同一题号记录追问，状态回到待回复，已解决条目保留。"
-    },
-    {
-      "time": "2026-11-27T17:05:12+08:00",
-      "change": "按本人确认，硕士教育经历展示为「浙江海洋大学（清华大学联合培养）」，学位授予院校字段为「浙江海洋大学」。"
-    },
-    {
-      "time": "2026-11-27T16:57:09+08:00",
-      "change": "接入作品集监控与逐页全文，对齐五项代表作、主岗位及硕士联合培养信息，并保留按题号在线回复。"
-    },
-    {
-      "time": "2026-11-27T16:45:00+08:00",
-      "change": "为 Q01 开放在线回复、提交回执和个人收件箱。"
     }
   ]
 }

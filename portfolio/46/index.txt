@@ -1,43 +1,85 @@
 李果 · 影像作品集
 
-第 46 页 · 宣发与出海买量方法论：《如果AI》15+ 预热切片 × DramaBox 海外短剧 Lip-sync 与 150+ 高转化素材
+第 46 页 · 第 46 页
 https://lg9685294.github.io/portfolio/46/
 
-04 / PROMO SLICES & DRAMABOX GLOBAL LINE
+05 / CATL AUTO SHOW INTERACTIVE ARCHITECTURE
 /
-宣发与出海买量方法论：《如果AI》15+ 预热切片 × DramaBox 海外短剧 Lip-sync 与 150+ 高转化素材
-点众科技（河马剧场 / DramaBox）双端实战 · 单集工时压缩 -70% · 2024 点众高转化 AI 视觉案例
+宁德时代 2023 广州车展「全球首部用户主演 AIGC 互动驾车大片」：线下巨幕与线上小程序双链路闭环
+展台主屏幕宣传片分镜跟组 · 小程序实时互动裂变 · UV 裂变 80% / 留资 90%
 46
-DOMESTIC LAUNCH ·《如果AI》概念主视觉海报与 15+ 版前 3 秒预热买量切片矩阵
-CONCEPT KV 9:16
-[ 剧集官方概念海报留位 ]
-一高炉钢铁巨环与机械瞳孔对视
-官方宣发主图 POSTER
-SLICE A · 奇观钩子 3S HOOK
-[ 预热切片 A 留位 ]
-0.5s 北京高炉天际崩塌悬念版
-泛科幻人群定向 AB TEST 1
-SLICE B · 身份反转 3S HOOK
-[ 预热切片 B 留位 ]
-「相恋三年的伴侣竟是仿生AI」悬疑版
-大众情感人群定向 AB TEST 2
-买量切片赛马策略 · 同剧切出「硬核奇观 / 情感背叛 / 地标打卡」三套前 3 秒 AB TESTING
-针对河马剧场与抖音不同受众包，用 AI 快速重制 15+ 版不同开场 3 秒视觉锤，精准拉动上线预约与首日自然涌入量。
-DRAMABOX OVERSEAS · 海外短剧对手戏锁脸、英语 Lip-sync 与 150+ 买量切片流水线
-出海核心痛点
-点众期间落地的标准化解法
-业务提效结果
-欧美演员锁脸 WEST CAST LOCK
-标准机位库 + IP-Adapter 狼人/豪门题材跨集连戏
-搭建欧美庄园/总裁办标准机位库 + 批量首尾帧工作流，单集制作工时直接压缩 70%。
-英语口型违和 EN LIP-SYNC
-音素对齐 + 下颌局部精修 攻克爆破音牙齿模糊
-针对英语 B/P/V 连读大开合口型，二次局部修复唇齿清晰度与面部肌肉联动，消除恐怖谷效应。
-多语种买量海投 150+ AD CREATIVES
-痛点钩子模块化拼装 TikTok / Reels 投流标准
-协同投放团队累计产出 150+ 条高完播 9:16 投流切片，获评 2024 点众高转化 AI 视觉内部标杆案例。
-OVERSEAS WORKFLOW PLACEHOLDER · 出海口型同步与买量切片看板留位 DRAMABOX GLOBAL
-[ 待补工程截图留位 · 英语 Lip-sync 前后唇齿细节对比帧 / 买量切片命名矩阵截图 ]
--70% EPISODE HOURS · 150+ SLICES GLOBAL PIPELINE
-END OF CHAPTER 04 ·《如果AI》HYBRID VFX & DRAMABOX GLOBAL PIPELINE (P42—P46)
-NEXT CHAPTER 05: LENOVO × BLUEFOCUS《#万物皆可YOGA#》& MASTER LEDGER →
+OFFLINE BOOTH × ONLINE MINI-PROGRAM CLOSED LOOP · 把硬核动力电池参展变成人人排队参与的“个人科幻/山海驾车大片制片厂”
+2023 广州国际车展现场引爆 · 秒级合成零排队崩盘
+NODE 01 · 线下展台巨幕聚流 BOOTH LED
+主屏幕高燃先导大片视觉震场
+展台超宽主屏幕循环播放搭载宁德时代超充电池穿越山海奇观的先导大片，强力吸引车展人流驻足扫码。
+→
+NODE 02 · 小程序自拍与选境 WECHAT H5/MP
+上传单张正脸 + 任选 6 大奇观
+观众手机扫码进入互动小程序，现场自拍或上传一张照片，从 6 套山海与城市奇观路线中挑选专属座驾剧本。
+→
+NODE 03 · 预制母版实时融合 FACE-FUSION API
+6 套标准光位 Base Video 秒级换脸
+依托预制统一车景光影底片母版，后台技术接口仅需轻量级人脸重演融合即可在数秒内输出电影级定制成片。
+→
+NODE 04 · 社交裂变与高潜留资 80% UV · 90% LEAD
+解锁高清成片留资 + 朋友圈裂变
+用户授权手机号一键保存专属大片并分享社交圈，带动场外海量用户同步参与，实现 80% 裂变 UV 与 90% 留资率。
+DUAL-LINK SYSTEM TOPOLOGY · 线下车展主舞台屏幕与线上 AIGC 小程序双链路架构图 REAL-TIME HYBRID ENGINE
+TRACK A · 线下车展展台触点
+展台主屏幕宣传片 + 互动体验区
+· 分镜脚本跟组实拍车内驾驶与巨幕奇观
+· 现场导流立牌与大屏轮播观众成片
+TRACK B · 线上小程序入口
+微信扫码一键上传单张正脸照
+· 自动人脸姿态合规检测与隐私授权
+· 场内逛展观众 + 场外裂变好友双源涌入
+CORE AIGC ASSET & API ENGINE
+6 套山海与城市奇观底片母版
+本人制作 · 统一车景主光/色温/颈部锚点
+× 无缝对接 ↓
+技术团队实时换脸渲染接口
+高并发秒级融合 · 肤色光影零违和
+VIRAL & CRM CLOSED LOOP
+生成 15s 用户主演大片
+80% 裂变 UV
+带专属海报码回流小程序
+90% 留资转化
+沉淀高意向新能源车主线索池
+SCOPE A · 线下展台大屏端 FILM & ON-SET
+车展展台主屏幕宣传片分镜跟组
+负责现场展台主屏幕高燃宣传片分镜脚本设计与影棚实拍跟组，精准把控实拍车舱替身演员驾驶姿态、方向盘透视与车窗绿幕光比记录。
+SCOPE B · 线上互动母版端 6 BASE VIDEOS
+小程序内置 6 套奇观底片母版（Base Video）
+生成 6 套山海与城市奇观驾车底片母版，将 AIGC 奇观外景与实拍座舱光影统一定标，确保技术团队调用实时换脸接口一次合缝。
+ARCHITECTURAL DECISIONS · 为什么采用「预制 AIGC 底片母版 + 实时换脸接口」混合架构？
+工程与传播痛点
+本案双链路架构解法
+现场实测收益
+车展万人高并发 PEAK CONCURRENCY
+离线预制 + 轻量换脸 规避现场文生视频排队
+车展高峰期若实时跑扩散视频需 3–5 分钟必流失；预制高质量底片仅做人脸融合实现秒级出片。
+车企视觉严品控 BRAND SAFETY
+6 套母版人工精修锁审 100% 杜绝随机穿帮畸变
+提前逐帧精修车内仪表、方向盘与车外山海奇观，彻底消除现场随机抽卡出现多手或撞车坏帧风险。
+B2B 品牌 C 端破圈 USER CO-STARRING
+观众化身大片男/女主 强社交货币驱动自发转发
+把“看宁德时代广告”变成“晒自己开电车穿越极光大片”，引爆微信生态裂变与高转化留资。
+MINI-PROGRAM UX FLOW · 小程序三步极简互动体验槽位
+STEP 01 UPLOAD
+[ 界面槽位 A ]
+扫码上传单张正脸自拍
+智能检测光线与角度
+3s 极速采集 UI 01
+STEP 02 SELECT
+[ 界面槽位 B ]
+任选 6 大山海/城市奇观
+触发实时换脸合成
+6 套母版切换 UI 02
+STEP 03 SHARE
+[ 界面槽位 C ]
+留资解锁高清主演成片
+附专属裂变二维码海报
+90% 留资转化 UI 03
+CHAPTER 05 · CATL 2023 GUANGZHOU AUTO SHOW · OFFLINE-TO-ONLINE AIGC SYSTEM
+NEXT: 6 MOUNTAIN-SEA & URBAN WONDER BASE VIDEOS OPTICAL SPECIFICATION →
