@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "student": {
     "name": "李果",
-    "targetRole": "AIGC 精品剧项目制片",
+    "targetRole": "AIGC精品剧项目制片｜导演向AI视频主管",
     "targetDirections": [
       "精品短剧",
       "AI 漫剧",
@@ -18,8 +18,8 @@
     }
   },
   "site": {
-    "version": "V18",
-    "updatedAt": "2026-11-27T17:10:15+08:00",
+    "version": "V19",
+    "updatedAt": "2026-11-27T17:19:00+08:00",
     "pages": {
       "home": "https://lg9685294.github.io/",
       "resume": "https://lg9685294.github.io/resume/",
@@ -29,7 +29,7 @@
     }
   },
   "resume": {
-    "summary": "5 年商业视觉与 AIGC 影视制片经验，擅长跨镜一致性与多触点控本交付。",
+    "summary": "4年+AIGC影视制片经验，专注跨镜品控与控本量产。",
     "education": [
       {
         "school": "浙江海洋大学",
@@ -48,74 +48,77 @@
     ],
     "experience": [
       {
-        "org": "上海顺动广告股份有限公司（AI视觉与短剧承制部）",
-        "role": "AIGC短剧项目制片 / 制作组长",
+        "org": "深圳不鸣文化科技有限公司（AI漫剧与数字商业制片部）",
+        "role": "AIGC精品剧项目制片 / 制作组长",
         "start": "2025-04",
         "end": "2026-08",
         "type": null,
         "highlights": [
-          "剧集与商业视效双线承制：带领 5 人制作组及外部兼职美术，并行承接平台委托古风漫剧、AI 仿真人短剧整包承制，以及头部电商品牌 AIGC 整合营销 TVC 与线下快闪动态视觉委托承制。",
-          "多模型路由与单镜无损返修：落地「合规角色/商品真值定标→Seedance 2.0 文戏微表情＋可灵 2.0 大动态运镜→固定 Seed 局部重绘返修」三级门禁，小组抽卡废片率由 62% 压降至 25%。",
-          "成本管控与商业交付表现：剧集单分钟成本控制在 1,200—2,200 元，商业 TVC 承制试片一次过审率达 90%；累计交付 7 部连载剧（3 部破红果/抖音 3,000 万—5,000 万热度）及多套全案级商业视效资产。"
+          "独立产线排期与协同管理：负责 5 人组日常排产与审片（直抓美术定调、前 3 秒留存卡点改造及疑难废镜排障；协同组内编剧细化台词、生成师抽卡重绘、后期组 PR/AE/达芬奇成片包装及旺季外部画师补位），跑通两周半交付一部 50 集漫剧的稳定节奏。",
+          "模型换代管线与损耗控制：随 2025—2026 模型升级持续迭代 SOP，按「四视图光影定标→文戏 Seedance / 动作戏可灵 / 空镜 Veo 分流→固定 Seed 局部修补」执行三级审片，将组内平均抽卡损耗比由初期约 5:1 压降至 1.3:1（废片率约 22%）。",
+          "单分钟成本核算与总产出：在月均稳定交付约 90 分钟成片规模下，含人力分摊的全包成本控制在 1,380—1,650 元/分钟（直接 API 算力 360—420 元/分钟）；完成《猪屁登》三维转 AIGC 内部验证，累计交付右豹商业漫剧 12 部（560 集）及《予你深情侵入余生》暑期分包 85 集。"
         ]
       },
       {
-        "org": "点众科技（河马剧场 / DramaBox 视觉内容中心）",
-        "role": "资深 AIGC 视频设计师（高级执行）",
-        "start": "2023-10",
+        "org": "上海拌饭信息科技有限公司 · 鸣白文化（微盟集团生态）",
+        "role": "资深AIGC视效编导 / 视效统筹",
+        "start": "2023-12",
         "end": "2025-03",
         "type": null,
         "highlights": [
-          "精品微短剧视效与标准化量产：参与平台重点科幻文旅短剧《如果AI》（首钢园开机）实景数字绘景延展与可灵动态补镜；搭建多品类连载短剧「ComfyUI 角色模板＋标准机位库＋批量首尾帧」流水线，单集工时压缩 70%。",
-          "海外短剧锁脸与买量拆条：负责 DramaBox 海外短剧对手戏面部锁定、英语 Lip-sync 口型同步与穿帮精修，协同投流组产出 150+ 条 9:16 高转化买量切片。"
+          "定制短剧视效与小队带教：入职鸣白厂牌参与平台商业定制短剧前期概念视觉与后期 AI 虚拟置景；2024 年 3 月团队并入微盟集团营销生态后，晋升带 3 人 AIGC 商业视效小队，并行承接定制剧视效与微盟 KA 商家双11/上新季商业短片。",
+          "商业交付红线规范制定：针对品牌客户产品外观零变形审片标准，推行「实拍微距/白模底图保护结构→ComfyUI 环境光影生成→后期 AE 跟踪回贴真标」作业规范，大幅减少实景搭台开支，累计配合投流组输出 150+ 条 9:16 竖屏买量切片。"
         ]
       },
       {
-        "org": "蓝色光标（北京蓝标传媒）",
-        "role": "商业视频编导 / AIGC 视觉创意执行",
+        "org": "广州蓝色光标数字营销有限公司（华南事业群）",
+        "role": "商业视频编导 / AIGC视觉执行",
         "start": "2022-07",
-        "end": "2023-09",
+        "end": "2023-11",
         "type": null,
         "highlights": [
-          "整合营销 TVC 与线下视觉执行：参与服务联想、伊利等 KA 客户（含长城奖金奖案《#万物皆可YOGA#》），负责商业 TVC 脚本分镜、棚拍微距跟组、平面 KV 延展及线下新品品鉴会展陈屏幕视觉，累计交付 40+ 套视频与传播物料（主力投放 CTR 3.8%）。",
-          "商品真值锁死与 AI 动态预演：2023.03 ControlNet 开源及集团推行 All in AI 期间，率先建立「3C/快消硬件真值底图锁死＋MJ V5 / SD ControlNet 光影生成＋AE 回贴」规范与动态故事板（Animatic）预演，比稿周期 7 天缩至 2 天、省置景费 50%。"
+          "车企客户商业视频全案执行：在华南车企服务组参与广汽丰田、宁德时代等年度传播项目，承担客户 Brief 转化、商业 TVC 分镜脚本、影棚实拍跟组及线下车展展陈屏幕、双微海报延展，累计参与交付 40+ 套传播物料。",
+          "集团首批商业 AIGC 预演落地：2023 年春集团启动 All in AI 转型后，率先用 Midjourney V5 + ControlNet + Runway Gen-2 制作带配音时码的动态故事板（Animatic）替代手绘分镜与打样搭景，客户 PPM 定稿周期由 7 天缩至 2 天、省打样置景费约一半。"
         ]
       },
       {
-        "org": "网易（杭州互娱营销视觉中心）",
-        "role": "短视频内容编导（研三实习）",
+        "org": "网易游戏（广州互动娱乐事业群 · 营销中心）",
+        "role": "短视频内容编导（实习）",
         "start": "2021-07",
-        "end": "2022-05",
+        "end": "2022-01",
         "type": "实习",
         "highlights": [
-          "实拍场记与后期视听筑基：研三论文录用后全勤实习，参与国风游戏品牌 TVC 棚拍场记、真人剧情宣发片分镜拆解及 Premiere / After Effects / DaVinci Resolve 剪辑调色与字卡安全区包装（累计参与交付 70+ 条），通过前 3 秒留存复盘推动均集完播率由 29% 升至 40%。"
+          "买量素材留存拆解与后期实操：结合工科三维空间构图与剪辑包装基础，跟组参与《梦幻西游》《率土之滨》宣发棚拍场记及信息流买量视频制作（参与交付 60+ 条）；按秒复盘前 3 秒划走率并前置高燃奇观画面，推动测试组均集完播率由 29% 提至 40%。"
         ]
       }
     ],
     "projectIds": [
-      "P1",
-      "P2",
-      "P3",
-      "P4",
-      "P5"
+      "P166611683",
+      "P344128036",
+      "P2833804461",
+      "P855833790",
+      "P2059429054"
     ],
     "skills": [
-      "剧作拆解、视听分镜与留存节奏设计",
-      "角色商品资产锁死与跨镜一致性品控",
-      "可灵、Seedance、Veo 多模型生成调度",
-      "ComfyUI 可控管线与 3D 动态预演",
-      "PR / AE / 达芬奇精修与制片控本验收"
+      "Seedance 2.5 / 可灵 4.0 / Veo 分戏调度",
+      "ComfyUI 光影定调与固定 Seed 局部修片",
+      "商业 Brief 拆解、前3秒留存与 3D 预演",
+      "5人独立组排期统筹与单分钟算力核算",
+      "商品保真与 PR/AE/达芬奇成片验收"
     ],
     "tools": [
-      "可灵 2.0",
+      "Seedance 2.5",
       "Seedance 2.0",
-      "Veo 3",
+      "可灵 4.0",
+      "可灵 2.5 Turbo",
+      "Veo 3.1",
       "ComfyUI",
       "ControlNet",
-      "LoRA",
+      "Midjourney V5",
+      "Runway Gen-2",
       "Blender",
-      "Premiere",
-      "After Effects",
+      "PR",
+      "AE",
       "DaVinci Resolve"
     ]
   },
@@ -130,7 +133,7 @@
       "start": "2026-01",
       "end": "2026-04",
       "client": "爱奇艺、红果",
-      "inResume": true,
+      "inResume": false,
       "portfolioPages": "P04-P21",
       "pageCount": 18,
       "visuals": {
@@ -172,7 +175,7 @@
       "start": "2025-08",
       "end": "2025-10",
       "client": "京东 × 敦煌美术研究所",
-      "inResume": true,
+      "inResume": false,
       "portfolioPages": "P22-P36",
       "pageCount": 15,
       "visuals": {
@@ -204,7 +207,7 @@
       "start": "2025-05",
       "end": "2025-08",
       "client": null,
-      "inResume": true,
+      "inResume": false,
       "portfolioPages": "P37-P41",
       "pageCount": 5,
       "visuals": {
@@ -251,7 +254,7 @@
       "start": "2024-05",
       "end": "2024-10",
       "client": "河马剧场、抖音（宣发平台）",
-      "inResume": true,
+      "inResume": false,
       "portfolioPages": "P42-P46",
       "pageCount": 5,
       "visuals": {
@@ -278,7 +281,7 @@
       "start": "2023-05",
       "end": "2023-08",
       "client": "联想",
-      "inResume": true,
+      "inResume": false,
       "portfolioPages": "P47-P48",
       "pageCount": 2,
       "visuals": {
@@ -293,6 +296,111 @@
           "source": "简历自述"
         }
       ],
+      "status": "待补"
+    },
+    {
+      "id": "P166611683",
+      "name": "《予你深情侵入余生》系列 AI 漫剧（暑期档第 3—5 季分包批次）",
+      "type": null,
+      "nature": null,
+      "myRole": "分季承制组长",
+      "teamOrSolo": null,
+      "start": "2026-06",
+      "end": "2026-08",
+      "client": null,
+      "inResume": true,
+      "portfolioPages": null,
+      "pageCount": 0,
+      "visuals": {
+        "ready": 0,
+        "total": 0
+      },
+      "videos": [],
+      "keyData": [],
+      "status": "待补"
+    },
+    {
+      "id": "P344128036",
+      "name": "国民动漫 IP《猪屁登》三维转 AIGC 管线测试与右豹商业漫剧批次交付",
+      "type": null,
+      "nature": null,
+      "myRole": "项目制片",
+      "teamOrSolo": null,
+      "start": "2025-05",
+      "end": "2026-05",
+      "client": null,
+      "inResume": true,
+      "portfolioPages": null,
+      "pageCount": 0,
+      "visuals": {
+        "ready": 0,
+        "total": 0
+      },
+      "videos": [],
+      "keyData": [],
+      "status": "待补"
+    },
+    {
+      "id": "P2833804461",
+      "name": "微盟双11家电3C商业 TVC 矩阵及淘宝冠名《公关菜鸟》定制视觉",
+      "type": null,
+      "nature": null,
+      "myRole": "AIGC视效统筹",
+      "teamOrSolo": null,
+      "start": "2024-09",
+      "end": "2025-03",
+      "client": null,
+      "inResume": true,
+      "portfolioPages": null,
+      "pageCount": 0,
+      "visuals": {
+        "ready": 0,
+        "total": 0
+      },
+      "videos": [],
+      "keyData": [],
+      "status": "待补"
+    },
+    {
+      "id": "P855833790",
+      "name": "京东独家冠名 × 快手星芒《重生之我在AI世界当特工》视效与618剧货全案",
+      "type": null,
+      "nature": null,
+      "myRole": "资深AIGC视效编导",
+      "teamOrSolo": null,
+      "start": "2024-04",
+      "end": "2024-06",
+      "client": null,
+      "inResume": true,
+      "portfolioPages": null,
+      "pageCount": 0,
+      "visuals": {
+        "ready": 0,
+        "total": 0
+      },
+      "videos": [],
+      "keyData": [],
+      "status": "待补"
+    },
+    {
+      "id": "P2059429054",
+      "name": "广汽丰田赛那《旅程与AI，无可替代》TVC 及宁德时代广州车展 AIGC 互动大片",
+      "type": null,
+      "nature": null,
+      "myRole": "商业视频编导 / AIGC视觉执行",
+      "teamOrSolo": null,
+      "start": "2023-05",
+      "end": "2023-11",
+      "client": null,
+      "inResume": true,
+      "portfolioPages": null,
+      "pageCount": 0,
+      "visuals": {
+        "ready": 0,
+        "total": 0
+      },
+      "videos": [],
+      "keyData": [],
       "status": "待补"
     }
   ],
@@ -320,6 +428,10 @@
     ]
   },
   "changelog": [
+    {
+      "time": "2026-11-27T17:19:00+08:00",
+      "change": "替换线上简历（一页简版、详细版与整套预览）为最新定稿版本，同步更新全文与监控数据。"
+    },
     {
       "time": "2026-11-27T17:10:15+08:00",
       "change": "求助页说明已对齐教师流程：同一题号记录追问，状态回到待回复，已解决条目保留。"
