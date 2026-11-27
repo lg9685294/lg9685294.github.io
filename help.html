@@ -7,6 +7,7 @@
   <title>待解决的问题和需要找的参考</title>
   <link rel="canonical" href="/help.html">
   <link rel="stylesheet" href="/help.css">
+  <script src="/feedback-ui.js" defer></script>
 </head>
 <body class="help-page">
   <header class="ui-head">
@@ -22,12 +23,12 @@
   <main>
     <article>
       <h1>待解决的问题和需要找的参考</h1>
-      <p class="help-context">最后更新：<time datetime="2026-11-27T01:06:00-07:00">2026-11-27 01:06</time> <small>（丹佛时间）</small><br>老师回复：待补</p>
+      <p class="help-context">最后更新：<time datetime="2026-11-27T01:45:00-07:00">2026-11-27 01:45</time> <small>（丹佛时间）</small><br>老师回复：<a class="reply-jump" href="#teacher-reply">写回复</a></p>
     <table class="help-table" role="table" aria-label="问题与参考需求">
       <thead role="rowgroup"><tr role="row"><th scope="col" role="columnheader" id="help-col-0">编号</th><th scope="col" role="columnheader" id="help-col-1">类型</th><th scope="col" role="columnheader" id="help-col-2">关联位置</th><th scope="col" role="columnheader" id="help-col-3">具体描述</th><th scope="col" role="columnheader" id="help-col-4">希望拿到</th><th scope="col" role="columnheader" id="help-col-5">优先级</th><th scope="col" role="columnheader" id="help-col-6">状态</th><th scope="col" role="columnheader" id="help-col-7">提出日期</th></tr></thead>
       <tbody role="rowgroup">
         <tr id="Q01" role="row">
-          <th scope="row" role="rowheader" headers="help-col-0" data-label="编号"><a class="help-id" aria-label="Q01 固定链接" href="#Q01">Q01</a></th>
+          <th scope="row" role="rowheader" headers="help-col-0" data-label="编号"><span class="help-row-id"><a class="help-id" aria-label="Q01 固定链接" href="#Q01">Q01</a><a class="help-row-reply" aria-label="回复 Q01" href="#reply-Q01">回复</a></span></th>
           <td role="cell" headers="help-col-1" data-label="类型">问题</td>
           <td role="cell" headers="help-col-2" data-label="关联位置"><a href="/resume/detail/">简历 · 工作经历</a><br><a href="/portfolio/50/">P50 · 成长路径总结</a></td>
           <td role="cell" headers="help-col-3" data-label="具体描述">这份规划样稿从网易实习、蓝色光标编导、点众视频设计写到顺动项目制片。哪些作品能说明本人职责与能力的变化，哪些只能说明项目存在？这样的衔接问题需要局部改写，还是重做简历结构？</td>
@@ -39,11 +40,16 @@
       </tbody>
     </table>
     </article>
+    <section class="reply-panel" id="teacher-reply" aria-labelledby="reply-title">
+      <h2 id="reply-title">老师回复</h2>
+      <p class="reply-hint">在对应题号下写建议，也可以粘贴参考网址。提交后李果可以在私有收件箱查看。</p>
+<form class="reply-form" id="reply-Q01" method="post" action="https://ai-video-resume-reader.abuzzvole8195.chatgpt.site/feedback/replies"><input type="hidden" name="question" value="Q01"><input type="hidden" name="nonce" value=""><label for="message-Q01">回复 Q01</label><p class="reply-topic">简历 · 工作经历 / P50 · 成长路径总结</p><textarea id="message-Q01" name="message" rows="4" maxlength="5000" required placeholder="请写下修改建议，或贴上参考链接并说明看哪里。"></textarea><div class="reply-submit"><button type="submit" class="feedback-button">提交回复</button></div></form>
+    </section>
     <details class="help-guide">
       <summary>如何提问和更新状态</summary>
       <ol>
         <li>在制作这个网站的对话里发「发布到问题页」，写清关联的页码、遇到的困难、希望拿到的形式和数量，以及优先级。</li>
-        <li>从页首打开老师的回复文档，按编号找答复。看完后更新为「已回复」，实际用上并解决后更新为「已解决」。</li>
+        <li>老师可以直接在本页提交。李果在私有收件箱按编号查看答复，看完后更新为「已回复」，实际解决后更新为「已解决」。</li>
         <li>资料不够时，在原编号补充说明并标为「待回复」。有新的追问就另开一条，注明承接的编号。</li>
       </ol>
     </details>
