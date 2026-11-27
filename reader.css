@@ -219,3 +219,5 @@ body.rr-public{margin:0;background:var(--ui-bg);color:var(--ui-ink);font:16px/1.
 .rr-public h1,.rr-public h2{font-family:var(--ui-serif);line-height:1.35}.rr-public h1{font-size:clamp(29px,6vw,42px);margin:0 0 6px}
 .rr-public main>section{margin-top:32px}.rr-public main>header p{margin:5px 0 12px}.rr-public h2{font-size:26px}
 @media(max-width:710px){.rr-combined-link{grid-column:1/-1;margin:0;font-size:13px}}
+.rr-public .pf-reading-body{white-space:pre-line;line-height:1.85;margin-top:22px}
+.rr-public .work-paging{display:flex;flex-wrap:wrap;gap:22px;padding-block:20px;border-top:1px solid var(--ui-line)}
